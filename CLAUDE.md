@@ -89,4 +89,12 @@ What the failures look like (rendered with bench/render.py):
 1. DONE: v2 pipeline in `stlfix.py` with time limits, cavity-safe orientation, winding-number
    self-check; 9 synthetic tests pass; collet screw fixed in ~4 s with all vertices unchanged.
 2. DONE: dev run, see above.
-3. IN PROGRESS: held-out test run (1,068 models: stlfix, meshlab, admesh) -> bench/results/test_v2.jsonl.
+3. PARTIAL: held-out test run stopped at 112/1,068 models when the session was archived ->
+   bench/results/test_v2_partial.jsonl. So far: stlfix fixed 54.5% (shape damaged 0.0%),
+   MeshLab 32.1% (3.6%), admesh 12.5% (2.7%); median 3.7 s, p95 46 s.
+   To finish (resumes, ~2 h on 4 cores, ~10 GB dataset download):
+     pip install -e . -r bench/requirements.txt   # plus admesh on PATH (brew/apt)
+     cp bench/results/test_v2_partial.jsonl test.jsonl
+     THINGI_DIR=thingi_cache JOBS=3 bench/run.sh test test.jsonl stlfix meshlab admesh
+   Then copy to bench/results/test_v2.jsonl and put the final table in README + here.
+4. Optional: a GUI / drag-and-drop wrapper (e.g. macOS Automator Quick Action calling `stlfix`).
