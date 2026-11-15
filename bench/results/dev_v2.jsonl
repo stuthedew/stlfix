@@ -1,0 +1,750 @@
+{"id": 100036, "tool": "A", "in_problems": ["4 non-manifold edges", "4 open edges"], "time": 0.01, "problems": [], "ok": true, "lost": 7.692951595830074e-15, "added": 2.1163311940124178e-14}
+{"id": 100036, "tool": "B", "in_problems": ["4 non-manifold edges", "4 open edges"], "time": 0.03, "problems": [], "ok": true, "lost": 7.692951595830074e-15, "added": 1.7720654278636594e-14}
+{"id": 100036, "tool": "admesh", "in_problems": ["4 non-manifold edges", "4 open edges"], "time": 0.01, "problems": ["7 non-manifold edges", "3 open edges"], "ok": false, "lost": 1.4027103475370389e-14, "added": 0.0015863572493679753}
+{"id": 100036, "tool": "stlfix", "in_problems": ["4 non-manifold edges", "4 open edges"], "pick": "A", "time": 1.15, "problems": [], "ok": true, "lost": 7.692951595830074e-15, "added": 2.1163311940124178e-14}
+{"id": 100036, "tool": "meshlab", "in_problems": ["4 non-manifold edges", "4 open edges"], "time": 0.09, "problems": ["7 open edges"], "ok": false, "lost": 2.8195202962177895e-14, "added": 1.7486324877957783e-14}
+{"id": 100606, "tool": "A", "in_problems": [], "time": 0.03, "problems": [], "ok": true, "lost": 3.583605085405871e-16, "added": 3.578400054820306e-16}
+{"id": 100606, "tool": "B", "in_problems": [], "time": 0.03, "problems": [], "ok": true, "lost": 3.583605085405871e-16, "added": 2.696338108971413e-16}
+{"id": 100606, "tool": "meshlab", "in_problems": [], "time": 0.1, "problems": [], "ok": true, "lost": 3.583605085405871e-16, "added": 3.578400054820306e-16}
+{"id": 100606, "tool": "admesh", "in_problems": [], "time": 0.03, "problems": [], "ok": true, "lost": 3.583605085405871e-16, "added": 2.1330566634203495e-16}
+{"id": 100606, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 1.95, "problems": [], "ok": true, "lost": 3.583605085405871e-16, "added": 3.578400054820306e-16}
+{"id": 100644, "tool": "A", "in_problems": [], "time": 0.2, "problems": [], "ok": true, "lost": 8.757641542048731e-17, "added": 8.757641542048731e-17}
+{"id": 100644, "tool": "B", "in_problems": [], "time": 0.17, "problems": [], "ok": true, "lost": 8.757641542048731e-17, "added": 1.0170646475655426e-16}
+{"id": 100644, "tool": "meshlab", "in_problems": [], "time": 0.14, "problems": [], "ok": true, "lost": 8.757641542048731e-17, "added": 8.757641542048731e-17}
+{"id": 100644, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 2.19, "problems": [], "ok": true, "lost": 8.757641542048731e-17, "added": 8.757641542048731e-17}
+{"id": 100644, "tool": "admesh", "in_problems": [], "time": 0.05, "problems": [], "ok": true, "lost": 8.757641542048731e-17, "added": 8.61052923808834e-17}
+{"id": 1017011, "tool": "A", "in_problems": ["74 non-manifold edges", "206 open edges"], "time": 0.3, "problems": ["44 non-manifold edges", "12 open edges"], "ok": false, "lost": 0.01175835053559776, "added": 0.0014248950576885818}
+{"id": 1017011, "tool": "B", "in_problems": ["74 non-manifold edges", "206 open edges"], "time": 0.55, "problems": ["192 open edges"], "ok": false, "lost": 6.853050167789013e-08, "added": 6.237366513182816e-09}
+{"id": 1017011, "tool": "meshlab", "in_problems": ["74 non-manifold edges", "206 open edges"], "time": 0.15, "problems": ["24 non-manifold edges", "39 open edges"], "ok": false, "lost": 1.7468286184013707e-13, "added": 0.00020555410380667958}
+{"id": 1017011, "tool": "admesh", "in_problems": ["74 non-manifold edges", "206 open edges"], "time": 0.04, "problems": ["75 non-manifold edges", "4 open edges"], "ok": false, "lost": 1.2218884540550945e-13, "added": 1.0898246347741512e-13}
+{"id": 1017011, "tool": "stlfix", "in_problems": ["74 non-manifold edges", "206 open edges"], "pick": "B", "time": 3.75, "problems": ["192 open edges"], "ok": false, "lost": 6.853050167789013e-08, "added": 6.237366513182816e-09}
+{"id": 1017012, "tool": "A", "in_problems": ["24 non-manifold edges", "13 open edges"], "time": 0.27, "problems": ["23 non-manifold edges"], "ok": false, "lost": 0.0043710433104936375, "added": 0.002436159264755198}
+{"id": 1017012, "tool": "B", "in_problems": ["24 non-manifold edges", "13 open edges"], "time": 0.45, "problems": ["2 non-manifold edges", "28 open edges"], "ok": false, "lost": 0.004122273612089644, "added": 0.003172230304671125}
+{"id": 1017012, "tool": "meshlab", "in_problems": ["24 non-manifold edges", "13 open edges"], "time": 0.25, "problems": ["19 open edges"], "ok": false, "lost": 1.3276577761270955e-14, "added": 9.568307534130221e-15}
+{"id": 1017012, "tool": "admesh", "in_problems": ["24 non-manifold edges", "13 open edges"], "time": 0.07, "problems": ["24 non-manifold edges", "13 open edges"], "ok": false, "lost": 1.3276577761270955e-14, "added": 9.115447625445455e-15}
+{"id": 1017012, "tool": "stlfix", "in_problems": ["24 non-manifold edges", "13 open edges"], "pick": "B", "time": 3.48, "problems": ["2 non-manifold edges", "28 open edges"], "ok": false, "lost": 0.004122273612089644, "added": 0.003172230304671125}
+{"id": 103212, "tool": "A", "in_problems": ["inside-out normals"], "time": 0.01, "problems": [], "ok": true, "lost": 1.1602770348509425e-15, "added": 2.973184693478454e-15}
+{"id": 103212, "tool": "stlfix", "in_problems": ["inside-out normals"], "pick": "B", "time": 1.2, "problems": [], "ok": true, "lost": 1.1602770348509425e-15, "added": 2.787054670008352e-15}
+{"id": 103212, "tool": "B", "in_problems": ["inside-out normals"], "time": 0.03, "problems": [], "ok": true, "lost": 1.1602770348509425e-15, "added": 2.787054670008352e-15}
+{"id": 103212, "tool": "meshlab", "in_problems": ["inside-out normals"], "time": 0.16, "problems": ["inside-out normals"], "ok": false, "lost": 2.975441579912988e-15, "added": 3.2636244735802972e-15}
+{"id": 103212, "tool": "admesh", "in_problems": ["inside-out normals"], "time": 0.01, "problems": ["inside-out normals"], "ok": false, "lost": 2.975441579912988e-15, "added": 2.604608920879172e-15}
+{"id": 1037023, "tool": "A", "in_problems": ["19 non-manifold edges", "49 open edges"], "time": 0.13, "problems": ["16 non-manifold edges"], "ok": false, "lost": 0.004246961350534569, "added": 0.00016422727185337846}
+{"id": 1037023, "tool": "B", "in_problems": ["19 non-manifold edges", "49 open edges"], "time": 0.14, "problems": ["25 non-manifold edges", "133 open edges"], "ok": false, "lost": 2.7220543949681203e-07, "added": 2.2964813481701744e-07}
+{"id": 1037023, "tool": "meshlab", "in_problems": ["19 non-manifold edges", "49 open edges"], "time": 0.11, "problems": ["9 open edges"], "ok": false, "lost": 0.00020391804137978378, "added": 2.3301341231161926e-15}
+{"id": 1037023, "tool": "admesh", "in_problems": ["19 non-manifold edges", "49 open edges"], "time": 0.02, "problems": ["19 non-manifold edges", "1 open edges"], "ok": false, "lost": 1.5901361254673612e-15, "added": 1.5831496274725896e-15}
+{"id": 1037023, "tool": "stlfix", "in_problems": ["19 non-manifold edges", "49 open edges"], "pick": "A", "time": 2.53, "problems": ["16 non-manifold edges"], "ok": false, "lost": 0.004246961350534569, "added": 0.00016422727185337846}
+{"id": 1038446, "tool": "A", "in_problems": ["134 non-manifold edges", "150 open edges"], "time": 8.33, "problems": ["28 non-manifold edges"], "ok": false, "lost": 0.008651201722789291, "added": 8.651909883708389e-15}
+{"id": 1038446, "tool": "meshlab", "in_problems": ["134 non-manifold edges", "150 open edges"], "time": 0.2, "problems": ["104 non-manifold edges", "250 open edges"], "ok": false, "lost": 6.469512036365325e-15, "added": 3.691315430733678e-15}
+{"id": 1038446, "tool": "admesh", "in_problems": ["134 non-manifold edges", "150 open edges"], "time": 0.05, "problems": ["134 non-manifold edges"], "ok": false, "lost": 3.3631142759062213e-15, "added": 3.749340486273145e-15}
+{"id": 1038446, "tool": "B", "in_problems": ["134 non-manifold edges", "150 open edges"], "time": 11.92, "problems": ["83 non-manifold edges", "138 open edges"], "ok": false, "lost": 6.092603052800002e-07, "added": 6.766564194226131e-09}
+{"id": 1038446, "tool": "stlfix", "in_problems": ["134 non-manifold edges", "150 open edges"], "pick": "A", "time": 14.42, "problems": ["28 non-manifold edges"], "ok": false, "lost": 0.008651201722789291, "added": 8.651909883708389e-15}
+{"id": 105804, "tool": "stlfix", "in_problems": ["6 open edges"], "pick": "A", "time": 5.42, "problems": [], "ok": true, "lost": 1.35380039382823e-15, "added": 3.882677607577863e-14}
+{"id": 105804, "tool": "A", "in_problems": ["6 open edges"], "time": 4.08, "problems": [], "ok": true, "lost": 1.35380039382823e-15, "added": 3.882677607577863e-14}
+{"id": 105804, "tool": "meshlab", "in_problems": ["6 open edges"], "time": 0.16, "problems": ["6 open edges"], "ok": false, "lost": 3.0616475675110555e-14, "added": 3.0616325718905236e-14}
+{"id": 105804, "tool": "admesh", "in_problems": ["6 open edges"], "time": 0.01, "problems": ["6 open edges"], "ok": false, "lost": 3.0616475675110555e-14, "added": 3.456525869688993e-14}
+{"id": 1064469, "tool": "A", "in_problems": ["39 non-manifold edges", "39 open edges"], "time": 0.12, "problems": [], "ok": true, "lost": 0.004114114216924874, "added": 0.004119532988988798}
+{"id": 105804, "tool": "B", "in_problems": ["6 open edges"], "time": 4.04, "problems": [], "ok": true, "lost": 1.35380039382823e-15, "added": 3.935734641272654e-14}
+{"id": 1064469, "tool": "meshlab", "in_problems": ["39 non-manifold edges", "39 open edges"], "time": 0.11, "problems": ["3 non-manifold edges", "47 open edges"], "ok": false, "lost": 5.2070370428446534e-14, "added": 1.0199734868464144e-13}
+{"id": 1064469, "tool": "B", "in_problems": ["39 non-manifold edges", "39 open edges"], "time": 0.14, "problems": ["3 non-manifold edges", "15 open edges"], "ok": false, "lost": 0.0040741933076631764, "added": 0.004053311838043415}
+{"id": 1064469, "tool": "stlfix", "in_problems": ["39 non-manifold edges", "39 open edges"], "pick": "A", "time": 2.17, "problems": [], "ok": true, "lost": 0.004114114216924874, "added": 0.004119532988988798}
+{"id": 1064469, "tool": "admesh", "in_problems": ["39 non-manifold edges", "39 open edges"], "time": 0.03, "problems": ["42 non-manifold edges", "26 open edges"], "ok": false, "lost": 5.2070370428446534e-14, "added": 8.469236305878116e-14}
+{"id": 106838, "tool": "B", "in_problems": ["106 non-manifold edges", "132 open edges"], "time": 2.61, "problems": ["70 non-manifold edges", "132 open edges"], "ok": false, "lost": 2.03322423538829e-15, "added": 2.4335074714363556e-15}
+{"id": 106838, "tool": "meshlab", "in_problems": ["106 non-manifold edges", "132 open edges"], "time": 0.23, "problems": ["13 non-manifold edges", "221 open edges"], "ok": false, "lost": 2.133297956310647e-15, "added": 2.298527587433563e-15}
+{"id": 106838, "tool": "A", "in_problems": ["106 non-manifold edges", "132 open edges"], "time": 5.72, "problems": ["12 non-manifold edges"], "ok": false, "lost": 0.19777141948252108, "added": 2.249882773033085e-16}
+{"id": 106838, "tool": "admesh", "in_problems": ["106 non-manifold edges", "132 open edges"], "time": 0.08, "problems": ["106 non-manifold edges", "132 open edges"], "ok": false, "lost": 1.728641436816675e-15, "added": 2.3227929212388736e-15}
+{"id": 106838, "tool": "stlfix", "in_problems": ["106 non-manifold edges", "132 open edges"], "pick": "B", "time": 7.84, "problems": ["70 non-manifold edges", "132 open edges"], "ok": false, "lost": 2.03322423538829e-15, "added": 2.4335074714363556e-15}
+{"id": 110787, "tool": "A", "in_problems": [], "time": 0.03, "problems": [], "ok": true, "lost": 6.495165934404837e-16, "added": 6.495165934404837e-16}
+{"id": 110787, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 1.8, "problems": [], "ok": true, "lost": 6.495165934404837e-16, "added": 6.495165934404837e-16}
+{"id": 110787, "tool": "B", "in_problems": [], "time": 0.03, "problems": [], "ok": true, "lost": 6.495165934404837e-16, "added": 6.495165934404837e-16}
+{"id": 110787, "tool": "meshlab", "in_problems": [], "time": 0.17, "problems": [], "ok": true, "lost": 6.495165934404837e-16, "added": 6.495165934404837e-16}
+{"id": 110787, "tool": "admesh", "in_problems": [], "time": 0.03, "problems": [], "ok": true, "lost": 6.495165934404837e-16, "added": 6.495165934404837e-16}
+{"id": 111624, "tool": "A", "in_problems": [], "time": 0.11, "problems": [], "ok": true, "lost": 8.76024693062741e-15, "added": 8.742721645667191e-15}
+{"id": 111624, "tool": "B", "in_problems": [], "time": 0.12, "problems": [], "ok": true, "lost": 8.76024693062741e-15, "added": 7.53801379452197e-15}
+{"id": 111624, "tool": "meshlab", "in_problems": [], "time": 0.18, "problems": [], "ok": true, "lost": 8.76024693062741e-15, "added": 8.742721645667191e-15}
+{"id": 111624, "tool": "admesh", "in_problems": [], "time": 0.12, "problems": [], "ok": true, "lost": 8.76024693062741e-15, "added": 8.742721645667191e-15}
+{"id": 111624, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 2.39, "problems": [], "ok": true, "lost": 8.76024693062741e-15, "added": 8.742721645667191e-15}
+{"id": 1147177, "tool": "A", "in_problems": ["4 non-manifold edges"], "time": 0.07, "problems": [], "ok": true, "lost": 8.365825625438254e-11, "added": 4.6211417323235454e-11}
+{"id": 1147177, "tool": "B", "in_problems": ["4 non-manifold edges"], "time": 0.11, "problems": [], "ok": true, "lost": 2.9560944936643054e-16, "added": 3.777217963928228e-16}
+{"id": 1147177, "tool": "meshlab", "in_problems": ["4 non-manifold edges"], "time": 0.13, "problems": ["3 non-manifold edges"], "ok": false, "lost": 3.2034975082788005e-16, "added": 3.9854998866663297e-16}
+{"id": 1147177, "tool": "admesh", "in_problems": ["4 non-manifold edges"], "time": 0.03, "problems": ["4 non-manifold edges"], "ok": false, "lost": 3.0566866315282124e-16, "added": 3.4823685247670537e-16}
+{"id": 1147177, "tool": "stlfix", "in_problems": ["4 non-manifold edges"], "pick": "B", "time": 2.37, "problems": [], "ok": true, "lost": 2.9560944936643054e-16, "added": 3.777217963928228e-16}
+{"id": 115070, "tool": "A", "in_problems": ["1 non-manifold edges", "2 open edges"], "time": 0.1, "problems": [], "ok": true, "lost": 4.482058053834256e-15, "added": 1.679147961975137e-16}
+{"id": 115070, "tool": "B", "in_problems": ["1 non-manifold edges", "2 open edges"], "time": 0.04, "problems": [], "ok": true, "lost": 1.8976550532801228e-16, "added": 1.6569424165995973e-16}
+{"id": 115070, "tool": "meshlab", "in_problems": ["1 non-manifold edges", "2 open edges"], "time": 0.11, "problems": [], "ok": true, "lost": 1.8976550532801228e-16, "added": 1.679147961975137e-16}
+{"id": 115070, "tool": "stlfix", "in_problems": ["1 non-manifold edges", "2 open edges"], "pick": "B", "time": 1.97, "problems": [], "ok": true, "lost": 1.8976550532801228e-16, "added": 1.6569424165995973e-16}
+{"id": 115070, "tool": "admesh", "in_problems": ["1 non-manifold edges", "2 open edges"], "time": 0.01, "problems": ["1 non-manifold edges", "2 open edges"], "ok": false, "lost": 1.8976550532801228e-16, "added": 1.679147961975137e-16}
+{"id": 1211690, "tool": "A", "in_problems": ["23 non-manifold edges", "35 open edges"], "time": 0.02, "problems": [], "ok": true, "lost": 0.02047117173524931, "added": 2.0746094885560822e-14}
+{"id": 1211690, "tool": "B", "in_problems": ["23 non-manifold edges", "35 open edges"], "time": 0.03, "problems": ["23 non-manifold edges", "6 open edges"], "ok": false, "lost": 1.4039522652444273e-14, "added": 2.1257888525745827e-14}
+{"id": 1211690, "tool": "stlfix", "in_problems": ["23 non-manifold edges", "35 open edges"], "pick": "B", "time": 1.16, "problems": ["23 non-manifold edges", "6 open edges"], "ok": false, "lost": 1.4039522652444273e-14, "added": 2.1257888525745827e-14}
+{"id": 1211690, "tool": "admesh", "in_problems": ["23 non-manifold edges", "35 open edges"], "time": 0.0, "problems": ["29 non-manifold edges", "37 open edges"], "ok": false, "lost": 1.7196529061628384e-14, "added": 0.010235585867624655}
+{"id": 1211690, "tool": "meshlab", "in_problems": ["23 non-manifold edges", "35 open edges"], "time": 0.1, "problems": ["63 open edges"], "ok": false, "lost": 0.003606191674331278, "added": 0.003286852638931003}
+{"id": 124709, "tool": "A", "in_problems": ["7 non-manifold edges", "9 open edges"], "time": 0.05, "problems": [], "ok": true, "lost": 1.723351626208207e-14, "added": 1.339329764310784e-14}
+{"id": 124709, "tool": "B", "in_problems": ["7 non-manifold edges", "9 open edges"], "time": 0.05, "problems": [], "ok": true, "lost": 1.2056947415274769e-14, "added": 1.1675356844397195e-14}
+{"id": 124709, "tool": "stlfix", "in_problems": ["7 non-manifold edges", "9 open edges"], "pick": "B", "time": 1.39, "problems": [], "ok": true, "lost": 1.2056947415274769e-14, "added": 1.1675356844397195e-14}
+{"id": 124709, "tool": "admesh", "in_problems": ["7 non-manifold edges", "9 open edges"], "time": 0.01, "problems": ["9 non-manifold edges", "10 open edges"], "ok": false, "lost": 1.2474655488649401e-14, "added": 1.1803051039773399e-14}
+{"id": 124709, "tool": "meshlab", "in_problems": ["7 non-manifold edges", "9 open edges"], "time": 0.11, "problems": ["14 open edges"], "ok": false, "lost": 1.2474655488649401e-14, "added": 1.2814360069902499e-14}
+{"id": 1329186, "tool": "B", "in_problems": ["2 non-manifold edges"], "time": 4.23, "problems": ["2 non-manifold edges"], "ok": false, "lost": 1.3335975282346374e-14, "added": 1.3332896522358196e-14}
+{"id": 1329186, "tool": "meshlab", "in_problems": ["2 non-manifold edges"], "time": 0.25, "problems": ["6 open edges"], "ok": false, "lost": 1.3335975282346374e-14, "added": 1.2369748953255113e-14}
+{"id": 1329186, "tool": "admesh", "in_problems": ["2 non-manifold edges"], "time": 0.1, "problems": ["2 non-manifold edges"], "ok": false, "lost": 1.3335975282346374e-14, "added": 1.3332896522358196e-14}
+{"id": 1329186, "tool": "A", "in_problems": ["2 non-manifold edges"], "time": 8.74, "problems": [], "ok": true, "lost": 0.3514453465392997, "added": 0.01628843496067437}
+{"id": 133989, "tool": "A", "in_problems": ["120 open edges"], "time": 0.28, "problems": [], "ok": true, "lost": 1.4508458930879235e-15, "added": 1.2689129871158456e-15}
+{"id": 1329186, "tool": "stlfix", "in_problems": ["2 non-manifold edges"], "pick": "B", "time": 11.04, "problems": ["2 non-manifold edges"], "ok": false, "lost": 1.3335975282346374e-14, "added": 1.3332896522358196e-14}
+{"id": 133989, "tool": "stlfix", "in_problems": ["120 open edges"], "pick": "A", "time": 3.32, "problems": [], "ok": true, "lost": 1.4508458930879235e-15, "added": 1.2689129871158456e-15}
+{"id": 133989, "tool": "B", "in_problems": ["120 open edges"], "time": 0.28, "problems": [], "ok": true, "lost": 1.344198735520266e-15, "added": 1.6168966772723913e-15}
+{"id": 133989, "tool": "meshlab", "in_problems": ["120 open edges"], "time": 0.25, "problems": ["120 open edges"], "ok": false, "lost": 1.4508458930879235e-15, "added": 1.2689129871158456e-15}
+{"id": 133989, "tool": "admesh", "in_problems": ["120 open edges"], "time": 0.07, "problems": ["120 open edges"], "ok": false, "lost": 1.4508458930879235e-15, "added": 1.5063787805517702e-15}
+{"id": 1368057, "tool": "stlfix", "in_problems": ["11 non-manifold edges", "22 open edges"], "pick": "input", "time": 94.15, "problems": ["11 non-manifold edges", "22 open edges"], "ok": false, "lost": 2.09052379717776e-12, "added": 2.09052379717776e-12}
+{"id": 1368057, "tool": "meshlab", "in_problems": ["11 non-manifold edges", "22 open edges"], "time": 1.0, "problems": ["7 non-manifold edges", "40 open edges"], "ok": false, "lost": 2.09052379717776e-12, "added": 2.9633138900970875e-12}
+{"id": 1368057, "tool": "admesh", "in_problems": ["11 non-manifold edges", "22 open edges"], "time": 0.5, "problems": ["11 non-manifold edges", "22 open edges"], "ok": false, "lost": 2.09052379717776e-12, "added": 2.09052379717776e-12}
+{"id": 138095, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 0.96, "problems": [], "ok": true, "lost": 5.71711404829726e-16, "added": 5.71711404829726e-16}
+{"id": 138095, "tool": "A", "in_problems": [], "time": 0.02, "problems": [], "ok": true, "lost": 5.71711404829726e-16, "added": 5.71711404829726e-16}
+{"id": 138095, "tool": "B", "in_problems": [], "time": 0.03, "problems": [], "ok": true, "lost": 1.2994906182919564e-08, "added": 1.829845918290091e-08}
+{"id": 138095, "tool": "meshlab", "in_problems": [], "time": 0.1, "problems": [], "ok": true, "lost": 5.71711404829726e-16, "added": 5.71711404829726e-16}
+{"id": 138095, "tool": "admesh", "in_problems": [], "time": 0.01, "problems": [], "ok": true, "lost": 5.71711404829726e-16, "added": 5.71711404829726e-16}
+{"id": 138188, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 0.93, "problems": [], "ok": true, "lost": 1.2237039326914082e-14, "added": 1.2237039326914082e-14}
+{"id": 138188, "tool": "A", "in_problems": [], "time": 0.01, "problems": [], "ok": true, "lost": 1.2237039326914082e-14, "added": 1.2237039326914082e-14}
+{"id": 138188, "tool": "B", "in_problems": [], "time": 0.01, "problems": [], "ok": true, "lost": 1.2237039326914082e-14, "added": 1.2456723235084929e-14}
+{"id": 138188, "tool": "meshlab", "in_problems": [], "time": 0.09, "problems": [], "ok": true, "lost": 1.2237039326914082e-14, "added": 1.2237039326914082e-14}
+{"id": 138188, "tool": "admesh", "in_problems": [], "time": 0.01, "problems": [], "ok": true, "lost": 1.2237039326914082e-14, "added": 1.2237039326914082e-14}
+{"id": 1436277, "tool": "stlfix", "in_problems": ["45 open edges"], "pick": "A", "time": 9.26, "problems": [], "ok": true, "lost": 7.019528625165781e-13, "added": 3.6434752081182865e-13}
+{"id": 1436277, "tool": "A", "in_problems": ["45 open edges"], "time": 5.58, "problems": [], "ok": true, "lost": 7.019528625165781e-13, "added": 3.6434752081182865e-13}
+{"id": 1436277, "tool": "B", "in_problems": ["45 open edges"], "time": 5.35, "problems": [], "ok": true, "lost": 7.019528625165781e-13, "added": 6.67350031702755e-13}
+{"id": 1436277, "tool": "meshlab", "in_problems": ["45 open edges"], "time": 0.23, "problems": ["45 open edges"], "ok": false, "lost": 4.065518668747573e-13, "added": 4.065518668747573e-13}
+{"id": 1436277, "tool": "admesh", "in_problems": ["45 open edges"], "time": 0.1, "problems": ["45 open edges"], "ok": false, "lost": 4.065518668747573e-13, "added": 3.8408381484711473e-13}
+{"id": 1452681, "tool": "stlfix", "in_problems": ["2 non-manifold edges", "15 open edges"], "pick": "A", "time": 0.96, "problems": [], "ok": true, "lost": 0.003887637127609989, "added": 0.0026144119462104013}
+{"id": 1452681, "tool": "A", "in_problems": ["2 non-manifold edges", "15 open edges"], "time": 0.04, "problems": [], "ok": true, "lost": 0.003887637127609989, "added": 0.0026144119462104013}
+{"id": 1452681, "tool": "B", "in_problems": ["2 non-manifold edges", "15 open edges"], "time": 0.05, "problems": [], "ok": true, "lost": 0.003887637127609989, "added": 0.0031757785801458005}
+{"id": 1452681, "tool": "meshlab", "in_problems": ["2 non-manifold edges", "15 open edges"], "time": 0.1, "problems": ["2 non-manifold edges", "15 open edges"], "ok": false, "lost": 2.2446236377310206e-16, "added": 2.2446236377310206e-16}
+{"id": 1452681, "tool": "admesh", "in_problems": ["2 non-manifold edges", "15 open edges"], "time": 0.01, "problems": ["2 non-manifold edges", "15 open edges"], "ok": false, "lost": 2.2446236377310206e-16, "added": 2.2446236377310206e-16}
+{"id": 145507, "tool": "stlfix", "in_problems": ["116 non-manifold edges"], "pick": "B", "time": 2.25, "problems": ["72 non-manifold edges", "12 open edges"], "ok": false, "lost": 9.193890679678616e-12, "added": 7.501855367725007e-11}
+{"id": 145507, "tool": "A", "in_problems": ["116 non-manifold edges"], "time": 0.96, "problems": ["128 non-manifold edges"], "ok": false, "lost": 9.193893841376303e-12, "added": 3.535132292024085e-08}
+{"id": 145507, "tool": "B", "in_problems": ["116 non-manifold edges"], "time": 0.59, "problems": ["72 non-manifold edges", "12 open edges"], "ok": false, "lost": 9.193890679678616e-12, "added": 7.501855367725007e-11}
+{"id": 145507, "tool": "meshlab", "in_problems": ["116 non-manifold edges"], "time": 0.13, "problems": ["1 non-manifold edges", "64 open edges"], "ok": false, "lost": 2.160996107853213e-15, "added": 8.439291739466663e-16}
+{"id": 145507, "tool": "admesh", "in_problems": ["116 non-manifold edges"], "time": 0.02, "problems": ["116 non-manifold edges"], "ok": false, "lost": 3.2316117880573543e-16, "added": 2.1538994239100937e-16}
+{"id": 1458675, "tool": "stlfix", "in_problems": ["7 open edges"], "pick": "A", "time": 2.3, "problems": [], "ok": true, "lost": 8.110976186049238e-15, "added": 5.984139874671197e-15}
+{"id": 1458675, "tool": "A", "in_problems": ["7 open edges"], "time": 0.16, "problems": [], "ok": true, "lost": 8.110976186049238e-15, "added": 5.984139874671197e-15}
+{"id": 1458675, "tool": "B", "in_problems": ["7 open edges"], "time": 0.18, "problems": [], "ok": true, "lost": 8.110976186049238e-15, "added": 6.069128804888397e-15}
+{"id": 1458675, "tool": "meshlab", "in_problems": ["7 open edges"], "time": 0.14, "problems": ["7 open edges"], "ok": false, "lost": 6.20638427132761e-15, "added": 6.192893382167246e-15}
+{"id": 1458675, "tool": "admesh", "in_problems": ["7 open edges"], "time": 0.04, "problems": ["7 open edges"], "ok": false, "lost": 6.20638427132761e-15, "added": 5.987092189646991e-15}
+{"id": 1458683, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 3.21, "problems": [], "ok": true, "lost": 7.18944160599237e-16, "added": 7.18944160599237e-16}
+{"id": 1458683, "tool": "A", "in_problems": [], "time": 0.34, "problems": [], "ok": true, "lost": 7.18944160599237e-16, "added": 7.18944160599237e-16}
+{"id": 1458683, "tool": "B", "in_problems": [], "time": 0.34, "problems": [], "ok": true, "lost": 7.265894125084465e-16, "added": 8.146905780895823e-16}
+{"id": 1458683, "tool": "meshlab", "in_problems": [], "time": 0.36, "problems": [], "ok": true, "lost": 7.18944160599237e-16, "added": 7.18944160599237e-16}
+{"id": 1458683, "tool": "admesh", "in_problems": [], "time": 0.19, "problems": [], "ok": true, "lost": 7.18944160599237e-16, "added": 9.004462233561176e-16}
+{"id": 1458686, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 1.31, "problems": [], "ok": true, "lost": 1.0800287451886464e-14, "added": 1.0798861467297588e-14}
+{"id": 1458686, "tool": "A", "in_problems": [], "time": 0.02, "problems": [], "ok": true, "lost": 1.0800287451886464e-14, "added": 1.0798861467297588e-14}
+{"id": 1458686, "tool": "B", "in_problems": [], "time": 0.02, "problems": [], "ok": true, "lost": 1.0800287451886464e-14, "added": 1.201045951133405e-14}
+{"id": 1458686, "tool": "meshlab", "in_problems": [], "time": 0.1, "problems": [], "ok": true, "lost": 1.0800287451886464e-14, "added": 1.0798861467297588e-14}
+{"id": 1458686, "tool": "admesh", "in_problems": [], "time": 0.01, "problems": [], "ok": true, "lost": 1.0800287451886464e-14, "added": 1.0591964068623083e-14}
+{"id": 1501550, "tool": "stlfix", "in_problems": ["20 non-manifold edges", "16 open edges"], "pick": "A", "time": 8.49, "problems": [], "ok": true, "lost": 2.4331481137195963e-10, "added": 1.7053629777422486e-10}
+{"id": 1501550, "tool": "A", "in_problems": ["20 non-manifold edges", "16 open edges"], "time": 2.26, "problems": [], "ok": true, "lost": 2.4331481137195963e-10, "added": 1.7053629777422486e-10}
+{"id": 1501550, "tool": "B", "in_problems": ["20 non-manifold edges", "16 open edges"], "time": 3.23, "problems": [], "ok": true, "lost": 2.4331481137195963e-10, "added": 2.431136510149008e-10}
+{"id": 1501550, "tool": "meshlab", "in_problems": ["20 non-manifold edges", "16 open edges"], "time": 0.24, "problems": ["6 open edges"], "ok": false, "lost": 3.4591687064154705e-13, "added": 3.542914938298218e-13}
+{"id": 1501550, "tool": "admesh", "in_problems": ["20 non-manifold edges", "16 open edges"], "time": 0.09, "problems": ["20 non-manifold edges", "16 open edges"], "ok": false, "lost": 3.4591687064154705e-13, "added": 3.542914938298218e-13}
+{"id": 1505037, "tool": "stlfix", "in_problems": ["466 non-manifold edges", "3 open edges"], "pick": "B", "time": 7.45, "problems": ["123 non-manifold edges", "31 open edges"], "ok": false, "lost": 0.004747145099508275, "added": 5.035455176595509e-09}
+{"id": 1505037, "tool": "A", "in_problems": ["466 non-manifold edges", "3 open edges"], "time": 4.08, "problems": ["286 non-manifold edges", "7 open edges"], "ok": false, "lost": 0.0744841416089695, "added": 0.0011664799215845654}
+{"id": 1505037, "tool": "B", "in_problems": ["466 non-manifold edges", "3 open edges"], "time": 1.32, "problems": ["123 non-manifold edges", "31 open edges"], "ok": false, "lost": 0.004747145099508275, "added": 5.035455176595509e-09}
+{"id": 1505037, "tool": "meshlab", "in_problems": ["466 non-manifold edges", "3 open edges"], "time": 0.39, "problems": ["124 non-manifold edges", "205 open edges"], "ok": false, "lost": 2.29013364342932e-15, "added": 5.8420372579353414e-15}
+{"id": 1505037, "tool": "admesh", "in_problems": ["466 non-manifold edges", "3 open edges"], "time": 0.18, "problems": ["466 non-manifold edges", "3 open edges"], "ok": false, "lost": 2.29013364342932e-15, "added": 2.8720221623844355e-15}
+{"id": 163738, "tool": "stlfix", "in_problems": ["400 non-manifold edges"], "pick": "input", "time": 2.37, "problems": ["400 non-manifold edges"], "ok": false, "lost": 2.5734471791976023e-14, "added": 2.4627967655940536e-14}
+{"id": 163738, "tool": "A", "in_problems": ["400 non-manifold edges"], "time": 0.29, "problems": ["408 non-manifold edges", "200 open edges"], "ok": false, "lost": 0.023189195545273378, "added": 0.03794744593639889}
+{"id": 163738, "tool": "B", "in_problems": ["400 non-manifold edges"], "time": 0.27, "problems": ["198 non-manifold edges", "200 open edges"], "ok": false, "lost": 0.023189195545273378, "added": 0.049348380811682906}
+{"id": 163738, "tool": "meshlab", "in_problems": ["400 non-manifold edges"], "time": 0.18, "problems": ["179 non-manifold edges", "38 open edges"], "ok": false, "lost": 0.00010461850584086928, "added": 0.0253031504399787}
+{"id": 163738, "tool": "admesh", "in_problems": ["400 non-manifold edges"], "time": 0.02, "problems": ["402 non-manifold edges"], "ok": false, "lost": 2.5734471791976023e-14, "added": 2.2285493599901505e-14}
+{"id": 196211, "tool": "stlfix", "in_problems": ["7 non-manifold edges", "12 open edges"], "pick": "B", "time": 2.3, "problems": [], "ok": true, "lost": 9.834092870500449e-16, "added": 4.2490851149107556e-16}
+{"id": 196211, "tool": "A", "in_problems": ["7 non-manifold edges", "12 open edges"], "time": 0.23, "problems": [], "ok": true, "lost": 1.1157886039451947e-15, "added": 4.517012621042309e-16}
+{"id": 196211, "tool": "B", "in_problems": ["7 non-manifold edges", "12 open edges"], "time": 0.24, "problems": [], "ok": true, "lost": 9.834092870500449e-16, "added": 4.2490851149107556e-16}
+{"id": 196211, "tool": "meshlab", "in_problems": ["7 non-manifold edges", "12 open edges"], "time": 0.17, "problems": ["4 open edges"], "ok": false, "lost": 4.2490851149107556e-16, "added": 5.419581618230298e-16}
+{"id": 196211, "tool": "admesh", "in_problems": ["7 non-manifold edges", "12 open edges"], "time": 0.05, "problems": ["7 non-manifold edges", "12 open edges"], "ok": false, "lost": 4.2490851149107556e-16, "added": 5.416541978961645e-16}
+{"id": 209796, "tool": "stlfix", "in_problems": ["17 non-manifold edges", "3 open edges"], "pick": "input", "time": 3.56, "problems": ["17 non-manifold edges", "3 open edges"], "ok": false, "lost": 3.0581224687194772e-15, "added": 3.036290331749113e-15}
+{"id": 209796, "tool": "A", "in_problems": ["17 non-manifold edges", "3 open edges"], "time": 0.59, "problems": [], "ok": true, "lost": 0.05060421617355078, "added": 0.04650071410961569}
+{"id": 209796, "tool": "B", "in_problems": ["17 non-manifold edges", "3 open edges"], "time": 0.53, "problems": ["overlapping parts"], "ok": false, "lost": 0.04930534553109016, "added": 0.04201920501693838}
+{"id": 209796, "tool": "meshlab", "in_problems": ["17 non-manifold edges", "3 open edges"], "time": 0.28, "problems": ["2 non-manifold edges", "26 open edges"], "ok": false, "lost": 3.0581224687194772e-15, "added": 1.8175572714019774e-15}
+{"id": 209796, "tool": "admesh", "in_problems": ["17 non-manifold edges", "3 open edges"], "time": 0.11, "problems": ["17 non-manifold edges", "3 open edges"], "ok": false, "lost": 3.0581224687194772e-15, "added": 2.549456122610316e-15}
+{"id": 229953, "tool": "stlfix", "in_problems": ["18 non-manifold edges", "32 open edges"], "pick": "B", "time": 0.92, "problems": ["1 non-manifold edges", "28 open edges"], "ok": false, "lost": 1.3488930254011491e-15, "added": 5.668868885088183e-16}
+{"id": 229953, "tool": "A", "in_problems": ["18 non-manifold edges", "32 open edges"], "time": 0.04, "problems": ["10 non-manifold edges"], "ok": false, "lost": 0.2590032968845332, "added": 6.824414665964688e-16}
+{"id": 229953, "tool": "B", "in_problems": ["18 non-manifold edges", "32 open edges"], "time": 0.03, "problems": ["1 non-manifold edges", "28 open edges"], "ok": false, "lost": 1.3488930254011491e-15, "added": 5.668868885088183e-16}
+{"id": 229953, "tool": "meshlab", "in_problems": ["18 non-manifold edges", "32 open edges"], "time": 0.09, "problems": ["1 non-manifold edges", "33 open edges"], "ok": false, "lost": 1.7262826549409199e-15, "added": 6.693785778337833e-16}
+{"id": 229953, "tool": "admesh", "in_problems": ["18 non-manifold edges", "32 open edges"], "time": 0.01, "problems": ["19 non-manifold edges", "12 open edges"], "ok": false, "lost": 1.2394949231886182e-15, "added": 7.589895204284872e-16}
+{"id": 237629, "tool": "stlfix", "in_problems": ["3 non-manifold edges", "1 open edges"], "pick": "B", "time": 1.07, "problems": [], "ok": true, "lost": 3.9667121489221377e-16, "added": 3.657127900627145e-16}
+{"id": 237629, "tool": "A", "in_problems": ["3 non-manifold edges", "1 open edges"], "time": 0.04, "problems": [], "ok": true, "lost": 0.00027107365337227576, "added": 0.0007584810000303442}
+{"id": 237629, "tool": "B", "in_problems": ["3 non-manifold edges", "1 open edges"], "time": 0.02, "problems": [], "ok": true, "lost": 3.9667121489221377e-16, "added": 3.657127900627145e-16}
+{"id": 237629, "tool": "meshlab", "in_problems": ["3 non-manifold edges", "1 open edges"], "time": 0.09, "problems": [], "ok": true, "lost": 3.9667121489221377e-16, "added": 3.9667121489221377e-16}
+{"id": 237629, "tool": "admesh", "in_problems": ["3 non-manifold edges", "1 open edges"], "time": 0.01, "problems": ["3 non-manifold edges"], "ok": false, "lost": 3.9667121489221377e-16, "added": 3.9667121489221377e-16}
+{"id": 237644, "tool": "stlfix", "in_problems": ["4 open edges"], "pick": "A", "time": 1.67, "problems": [], "ok": true, "lost": 0.008386246872610012, "added": 0.008124638348647791}
+{"id": 237644, "tool": "A", "in_problems": ["4 open edges"], "time": 0.09, "problems": [], "ok": true, "lost": 0.008386246872610012, "added": 0.008124638348647791}
+{"id": 237644, "tool": "B", "in_problems": ["4 open edges"], "time": 0.1, "problems": [], "ok": true, "lost": 0.008386246872610012, "added": 0.008068327716527495}
+{"id": 237644, "tool": "meshlab", "in_problems": ["4 open edges"], "time": 0.1, "problems": ["4 open edges"], "ok": false, "lost": 4.694461558873986e-16, "added": 4.689178932098526e-16}
+{"id": 237644, "tool": "admesh", "in_problems": ["4 open edges"], "time": 0.01, "problems": ["4 open edges"], "ok": false, "lost": 4.694461558873986e-16, "added": 5.000602269303055e-16}
+{"id": 238415, "tool": "stlfix", "in_problems": ["2 non-manifold edges"], "pick": "B", "time": 3.79, "problems": [], "ok": true, "lost": 1.4312010577365128e-15, "added": 3.25932409541206e-15}
+{"id": 238415, "tool": "A", "in_problems": ["2 non-manifold edges"], "time": 2.15, "problems": ["2 non-manifold edges"], "ok": false, "lost": 1.2144672763598067e-16, "added": 4.300125817781994e-15}
+{"id": 238415, "tool": "B", "in_problems": ["2 non-manifold edges"], "time": 0.12, "problems": [], "ok": true, "lost": 1.4312010577365128e-15, "added": 3.25932409541206e-15}
+{"id": 238415, "tool": "meshlab", "in_problems": ["2 non-manifold edges"], "time": 0.21, "problems": ["1 non-manifold edges", "3 open edges"], "ok": false, "lost": 2.380834039645887e-15, "added": 3.2183175982555152e-15}
+{"id": 238415, "tool": "admesh", "in_problems": ["2 non-manifold edges"], "time": 0.07, "problems": ["2 non-manifold edges"], "ok": false, "lost": 2.380834039645887e-15, "added": 2.3707611137856603e-15}
+{"id": 255238, "tool": "stlfix", "in_problems": ["7 non-manifold edges"], "pick": "B", "time": 3.37, "problems": [], "ok": true, "lost": 3.6682878197644624e-16, "added": 6.650969162015555e-16}
+{"id": 255238, "tool": "A", "in_problems": ["7 non-manifold edges"], "time": 1.33, "problems": [], "ok": true, "lost": 2.718045834163621e-16, "added": 4.356970743598648e-16}
+{"id": 255238, "tool": "B", "in_problems": ["7 non-manifold edges"], "time": 0.2, "problems": [], "ok": true, "lost": 3.6682878197644624e-16, "added": 6.650969162015555e-16}
+{"id": 255238, "tool": "meshlab", "in_problems": ["7 non-manifold edges"], "time": 0.24, "problems": ["7 open edges"], "ok": false, "lost": 2.9199706533372864e-16, "added": 3.2698095283924516e-16}
+{"id": 255238, "tool": "admesh", "in_problems": ["7 non-manifold edges"], "time": 0.13, "problems": ["7 non-manifold edges"], "ok": false, "lost": 2.9199706533372864e-16, "added": 3.9890315086471704e-16}
+{"id": 1368057, "tool": "A", "in_problems": ["11 non-manifold edges", "22 open edges"], "time": 289.26, "problems": [], "ok": true, "lost": 0.00880400026737409, "added": 0.008657178386973127}
+{"id": 257597, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 4.86, "problems": [], "ok": true, "lost": 1.5610221438652503e-14, "added": 1.734517168227237e-14}
+{"id": 257597, "tool": "A", "in_problems": [], "time": 0.66, "problems": [], "ok": true, "lost": 1.5610221438652503e-14, "added": 1.734517168227237e-14}
+{"id": 1368057, "tool": "B", "in_problems": ["11 non-manifold edges", "22 open edges"], "time": 292.97, "problems": [], "ok": true, "lost": 0.00880400026737409, "added": 0.008641568505055685}
+{"id": 257597, "tool": "B", "in_problems": [], "time": 0.86, "problems": [], "ok": true, "lost": 1.5610221438652503e-14, "added": 1.2381462318859303e-14}
+{"id": 257597, "tool": "meshlab", "in_problems": [], "time": 0.75, "problems": [], "ok": true, "lost": 1.5610221438652503e-14, "added": 1.2377154933397286e-14}
+{"id": 257597, "tool": "admesh", "in_problems": [], "time": 0.4, "problems": [], "ok": true, "lost": 1.5610221438652503e-14, "added": 1.2662275827623001e-14}
+{"id": 257598, "tool": "A", "in_problems": [], "time": 0.93, "problems": [], "ok": true, "lost": 1.4185225185388608e-15, "added": 1.414925857909628e-15}
+{"id": 257598, "tool": "B", "in_problems": [], "time": 0.83, "problems": [], "ok": true, "lost": 3.0336510661052775e-15, "added": 1.4071581583513844e-15}
+{"id": 257598, "tool": "meshlab", "in_problems": [], "time": 0.69, "problems": [], "ok": true, "lost": 1.4185225185388608e-15, "added": 1.3988894391588457e-15}
+{"id": 257598, "tool": "stlfix", "in_problems": [], "pick": "input", "time": 5.14, "problems": [], "ok": true, "lost": 1.4185225185388608e-15, "added": 1.4185225185388608e-15}
+{"id": 257598, "tool": "admesh", "in_problems": [], "time": 0.5, "problems": [], "ok": true, "lost": 1.4185225185388608e-15, "added": 1.4029131644775553e-15}
+{"id": 285605, "tool": "B", "in_problems": ["13 non-manifold edges"], "time": 5.15, "problems": ["overlapping parts"], "ok": false, "lost": 0.0013893748746226417, "added": 0.0007662446368344967}
+{"id": 285605, "tool": "A", "in_problems": ["13 non-manifold edges"], "time": 5.31, "problems": ["overlapping parts"], "ok": false, "lost": 0.0038487344283698825, "added": 0.001542077535415579}
+{"id": 285605, "tool": "stlfix", "in_problems": ["13 non-manifold edges"], "pick": "B", "time": 7.39, "problems": ["overlapping parts"], "ok": false, "lost": 0.0013893748746226417, "added": 0.0007662446368344967}
+{"id": 285605, "tool": "admesh", "in_problems": ["13 non-manifold edges"], "time": 0.06, "problems": ["13 non-manifold edges"], "ok": false, "lost": 9.473438849711539e-17, "added": 9.630085025701447e-17}
+{"id": 285605, "tool": "meshlab", "in_problems": ["13 non-manifold edges"], "time": 0.22, "problems": ["1 non-manifold edges", "11 open edges"], "ok": false, "lost": 9.939705863795881e-17, "added": 9.473438849711539e-17}
+{"id": 286159, "tool": "B", "in_problems": ["12 non-manifold edges"], "time": 0.13, "problems": ["9 non-manifold edges"], "ok": false, "lost": 3.676305361239497e-15, "added": 1.0625911383272512e-15}
+{"id": 286159, "tool": "A", "in_problems": ["12 non-manifold edges"], "time": 0.29, "problems": [], "ok": true, "lost": 3.858772319849901e-09, "added": 3.581218293001821e-09}
+{"id": 286159, "tool": "admesh", "in_problems": ["12 non-manifold edges"], "time": 0.04, "problems": ["12 non-manifold edges"], "ok": false, "lost": 1.1795350912749997e-15, "added": 8.730670216433522e-16}
+{"id": 286159, "tool": "meshlab", "in_problems": ["12 non-manifold edges"], "time": 0.17, "problems": ["8 open edges"], "ok": false, "lost": 8.860137139902249e-16, "added": 7.25367792898419e-16}
+{"id": 286159, "tool": "stlfix", "in_problems": ["12 non-manifold edges"], "pick": "A", "time": 2.52, "problems": [], "ok": true, "lost": 3.858772319849901e-09, "added": 3.581218293001821e-09}
+{"id": 286162, "tool": "A", "in_problems": ["2 non-manifold edges"], "time": 0.53, "problems": [], "ok": true, "lost": 2.7808116414139245e-09, "added": 3.642452646365498e-09}
+{"id": 286162, "tool": "B", "in_problems": ["2 non-manifold edges"], "time": 0.43, "problems": [], "ok": true, "lost": 2.7808116414139245e-09, "added": 3.9921699801707965e-09}
+{"id": 286162, "tool": "meshlab", "in_problems": ["2 non-manifold edges"], "time": 0.24, "problems": [], "ok": true, "lost": 1.0847835652879821e-16, "added": 1.0708144788983494e-16}
+{"id": 286162, "tool": "admesh", "in_problems": ["2 non-manifold edges"], "time": 0.06, "problems": ["2 non-manifold edges"], "ok": false, "lost": 1.0847835652879821e-16, "added": 1.0847835652879821e-16}
+{"id": 286162, "tool": "stlfix", "in_problems": ["2 non-manifold edges"], "pick": "A", "time": 2.64, "problems": [], "ok": true, "lost": 2.7808116414139245e-09, "added": 3.642452646365498e-09}
+{"id": 301921, "tool": "B", "in_problems": ["2 non-manifold edges"], "time": 0.04, "problems": [], "ok": true, "lost": 1.3281978089805354e-13, "added": 3.34023287508173e-13}
+{"id": 301921, "tool": "meshlab", "in_problems": ["2 non-manifold edges"], "time": 0.11, "problems": ["1 non-manifold edges", "3 open edges"], "ok": false, "lost": 1.0870386603461554e-12, "added": 9.228540503341212e-13}
+{"id": 301921, "tool": "admesh", "in_problems": ["2 non-manifold edges"], "time": 0.01, "problems": ["2 non-manifold edges"], "ok": false, "lost": 3.3109437981197317e-13, "added": 3.0205968137225405e-13}
+{"id": 301921, "tool": "A", "in_problems": ["2 non-manifold edges"], "time": 9.18, "problems": ["2 non-manifold edges"], "ok": false, "lost": 2.6332771092203954e-15, "added": 2.735012627920285e-13}
+{"id": 301921, "tool": "stlfix", "in_problems": ["2 non-manifold edges"], "pick": "B", "time": 10.6, "problems": [], "ok": true, "lost": 1.3281978089805354e-13, "added": 3.34023287508173e-13}
+{"id": 301929, "tool": "stlfix", "in_problems": ["1 non-manifold edges", "1247 open edges"], "pick": "input", "time": 92.14, "problems": ["1 non-manifold edges", "1247 open edges"], "ok": false, "lost": 3.835744457586856e-13, "added": 3.1892923923357917e-13}
+{"id": 301929, "tool": "meshlab", "in_problems": ["1 non-manifold edges", "1247 open edges"], "time": 0.35, "problems": ["1251 open edges"], "ok": false, "lost": 3.835744457586856e-13, "added": 3.9240387046680153e-13}
+{"id": 301929, "tool": "admesh", "in_problems": ["1 non-manifold edges", "1247 open edges"], "time": 0.15, "problems": ["1 non-manifold edges", "1247 open edges"], "ok": false, "lost": 3.835744457586856e-13, "added": 6.899574648925071e-13}
+{"id": 301929, "tool": "B", "in_problems": ["1 non-manifold edges", "1247 open edges"], "time": 101.5, "problems": ["1240 open edges"], "ok": false, "lost": 3.919593701472338e-13, "added": 2.33344414755412e-13}
+{"id": 333705, "tool": "stlfix", "in_problems": ["2 non-manifold edges", "60 open edges"], "pick": "B", "time": 21.28, "problems": [], "ok": true, "lost": 2.0068494668407357e-14, "added": 1.960908148968788e-14}
+{"id": 333705, "tool": "B", "in_problems": ["2 non-manifold edges", "60 open edges"], "time": 0.42, "problems": [], "ok": true, "lost": 2.0068494668407357e-14, "added": 1.960908148968788e-14}
+{"id": 333705, "tool": "meshlab", "in_problems": ["2 non-manifold edges", "60 open edges"], "time": 0.55, "problems": ["3 open edges"], "ok": false, "lost": 2.0068494668407357e-14, "added": 1.7424845094898722e-14}
+{"id": 333705, "tool": "admesh", "in_problems": ["2 non-manifold edges", "60 open edges"], "time": 0.21, "problems": ["2 non-manifold edges", "4 open edges"], "ok": false, "lost": 2.0068494668407357e-14, "added": 1.7424845094898722e-14}
+{"id": 333705, "tool": "A", "in_problems": ["2 non-manifold edges", "60 open edges"], "time": 19.47, "problems": [], "ok": true, "lost": 0.0003749883618319562, "added": 0.0003654729360880518}
+{"id": 364256, "tool": "stlfix", "in_problems": ["29 non-manifold edges", "1 open edges"], "pick": "input", "time": 9.41, "problems": ["29 non-manifold edges", "1 open edges"], "ok": false, "lost": 8.571389656042011e-16, "added": 8.55999147066922e-16}
+{"id": 364256, "tool": "B", "in_problems": ["29 non-manifold edges", "1 open edges"], "time": 3.86, "problems": ["overlapping parts"], "ok": false, "lost": 0.10532468533081472, "added": 0.07704688652906876}
+{"id": 364256, "tool": "A", "in_problems": ["29 non-manifold edges", "1 open edges"], "time": 8.04, "problems": ["10 non-manifold edges"], "ok": false, "lost": 0.10532468533081472, "added": 0.07466183302572553}
+{"id": 364256, "tool": "meshlab", "in_problems": ["29 non-manifold edges", "1 open edges"], "time": 0.43, "problems": ["15 open edges"], "ok": false, "lost": 8.571389656042011e-16, "added": 8.502778934765548e-16}
+{"id": 364256, "tool": "admesh", "in_problems": ["29 non-manifold edges", "1 open edges"], "time": 0.18, "problems": ["29 non-manifold edges", "1 open edges"], "ok": false, "lost": 8.571389656042011e-16, "added": 9.206233661361433e-16}
+{"id": 366725, "tool": "A", "in_problems": ["1 non-manifold edges", "376 open edges"], "time": 0.14, "problems": [], "ok": true, "lost": 0.020992328871900588, "added": 0.020251283390149796}
+{"id": 366725, "tool": "B", "in_problems": ["1 non-manifold edges", "376 open edges"], "time": 0.09, "problems": ["1 non-manifold edges", "31 open edges"], "ok": false, "lost": 0.007986918068899661, "added": 0.001934560901645605}
+{"id": 366725, "tool": "stlfix", "in_problems": ["1 non-manifold edges", "376 open edges"], "pick": "input", "time": 1.74, "problems": ["1 non-manifold edges", "308 open edges"], "ok": false, "lost": 1.2140339142992151e-16, "added": 1.2140339142992151e-16}
+{"id": 366725, "tool": "meshlab", "in_problems": ["1 non-manifold edges", "376 open edges"], "time": 0.1, "problems": ["21 open edges"], "ok": false, "lost": 1.2140339142992151e-16, "added": 1.7025153236752526e-16}
+{"id": 366725, "tool": "admesh", "in_problems": ["1 non-manifold edges", "376 open edges"], "time": 0.02, "problems": ["2 non-manifold edges", "2 open edges"], "ok": false, "lost": 1.2140339142992151e-16, "added": 1.7753712780502219e-16}
+{"id": 37211, "tool": "A", "in_problems": ["3 open edges"], "time": 0.02, "problems": [], "ok": true, "lost": 3.4729332790265666e-15, "added": 2.6705353118518485e-15}
+{"id": 37211, "tool": "B", "in_problems": ["3 open edges"], "time": 0.04, "problems": [], "ok": true, "lost": 3.4729332790265666e-15, "added": 4.313329580374877e-15}
+{"id": 37211, "tool": "stlfix", "in_problems": ["3 open edges"], "pick": "A", "time": 1.4, "problems": [], "ok": true, "lost": 3.4729332790265666e-15, "added": 2.6705353118518485e-15}
+{"id": 37211, "tool": "meshlab", "in_problems": ["3 open edges"], "time": 0.1, "problems": ["3 open edges"], "ok": false, "lost": 2.653590616884988e-15, "added": 2.7947063336415297e-15}
+{"id": 37211, "tool": "admesh", "in_problems": ["3 open edges"], "time": 0.01, "problems": ["3 open edges"], "ok": false, "lost": 2.653590616884988e-15, "added": 2.7947063336415297e-15}
+{"id": 37219, "tool": "A", "in_problems": ["11 open edges"], "time": 0.05, "problems": [], "ok": true, "lost": 2.9378277881662323e-14, "added": 2.4245679115293668e-14}
+{"id": 37219, "tool": "B", "in_problems": ["11 open edges"], "time": 0.04, "problems": [], "ok": true, "lost": 2.9378277881662323e-14, "added": 1.6591388363987478e-14}
+{"id": 37219, "tool": "stlfix", "in_problems": ["11 open edges"], "pick": "A", "time": 1.46, "problems": [], "ok": true, "lost": 2.9378277881662323e-14, "added": 2.4245679115293668e-14}
+{"id": 37219, "tool": "meshlab", "in_problems": ["11 open edges"], "time": 0.14, "problems": ["11 open edges"], "ok": false, "lost": 2.492130570259874e-14, "added": 2.492130570259874e-14}
+{"id": 37219, "tool": "admesh", "in_problems": ["11 open edges"], "time": 0.01, "problems": ["11 open edges"], "ok": false, "lost": 2.492130570259874e-14, "added": 2.492130570259874e-14}
+{"id": 37385, "tool": "A", "in_problems": ["2 non-manifold edges"], "time": 0.41, "problems": [], "ok": true, "lost": 6.192086297571449e-17, "added": 6.192086297571449e-17}
+{"id": 37385, "tool": "B", "in_problems": ["2 non-manifold edges"], "time": 0.24, "problems": ["2 non-manifold edges"], "ok": false, "lost": 6.192086297571449e-17, "added": 6.192086297571449e-17}
+{"id": 37385, "tool": "stlfix", "in_problems": ["2 non-manifold edges"], "pick": "A", "time": 2.56, "problems": [], "ok": true, "lost": 6.192086297571449e-17, "added": 6.192086297571449e-17}
+{"id": 37385, "tool": "meshlab", "in_problems": ["2 non-manifold edges"], "time": 0.42, "problems": [], "ok": true, "lost": 6.192086297571449e-17, "added": 6.192086297571449e-17}
+{"id": 37385, "tool": "admesh", "in_problems": ["2 non-manifold edges"], "time": 0.1, "problems": ["2 non-manifold edges"], "ok": false, "lost": 6.192086297571449e-17, "added": 6.192086297571449e-17}
+{"id": 37415, "tool": "A", "in_problems": ["78 non-manifold edges", "2112 open edges"], "time": 1.26, "problems": ["76 non-manifold edges", "49 open edges"], "ok": false, "lost": 0.08844898557389055, "added": 0.06000537460036537}
+{"id": 37415, "tool": "stlfix", "in_problems": ["78 non-manifold edges", "2112 open edges"], "pick": "input", "time": 3.67, "problems": ["79 non-manifold edges", "1651 open edges"], "ok": false, "lost": 6.338936045810328e-17, "added": 1.12050804367277e-16}
+{"id": 37415, "tool": "B", "in_problems": ["78 non-manifold edges", "2112 open edges"], "time": 0.9, "problems": ["47 non-manifold edges", "168 open edges"], "ok": false, "lost": 0.006092253023223259, "added": 0.02816500119140641}
+{"id": 37415, "tool": "meshlab", "in_problems": ["78 non-manifold edges", "2112 open edges"], "time": 0.25, "problems": ["24 non-manifold edges", "249 open edges"], "ok": false, "lost": 1.1317060074362127e-16, "added": 0.06021407403736572}
+{"id": 37415, "tool": "admesh", "in_problems": ["78 non-manifold edges", "2112 open edges"], "time": 0.06, "problems": ["85 non-manifold edges", "3 open edges"], "ok": false, "lost": 6.338936045810328e-17, "added": 0.05987775180002774}
+{"id": 37731, "tool": "A", "in_problems": ["57 non-manifold edges", "9 open edges"], "time": 2.41, "problems": [], "ok": true, "lost": 1.1955860222317048e-15, "added": 4.3987280480781605e-16}
+{"id": 37731, "tool": "stlfix", "in_problems": ["57 non-manifold edges", "9 open edges"], "pick": "A", "time": 3.82, "problems": [], "ok": true, "lost": 1.1955860222317048e-15, "added": 4.3987280480781605e-16}
+{"id": 37731, "tool": "B", "in_problems": ["57 non-manifold edges", "9 open edges"], "time": 0.13, "problems": ["23 non-manifold edges"], "ok": false, "lost": 1.5047978678453547e-15, "added": 6.350915665208418e-16}
+{"id": 37731, "tool": "meshlab", "in_problems": ["57 non-manifold edges", "9 open edges"], "time": 0.17, "problems": ["22 non-manifold edges", "129 open edges"], "ok": false, "lost": 3.798911162830981e-15, "added": 9.599315873258033e-16}
+{"id": 37731, "tool": "admesh", "in_problems": ["57 non-manifold edges", "9 open edges"], "time": 0.06, "problems": ["57 non-manifold edges", "9 open edges"], "ok": false, "lost": 3.5972617407375057e-16, "added": 3.733048441979572e-16}
+{"id": 301929, "tool": "A", "in_problems": ["1 non-manifold edges", "1247 open edges"], "time": 190.9, "problems": ["1 non-manifold edges", "1247 open edges"], "ok": false, "lost": 3.835744457586856e-13, "added": 4.674259341512187e-13}
+{"id": 38157, "tool": "A", "in_problems": ["2 non-manifold edges", "41 open edges"], "time": 37.69, "problems": [], "ok": true, "lost": 0.004175616042171087, "added": 0.0038805141372546727}
+{"id": 38157, "tool": "meshlab", "in_problems": ["2 non-manifold edges", "41 open edges"], "time": 0.55, "problems": ["26 non-manifold edges", "14 open edges"], "ok": false, "lost": 1.550706991374389e-16, "added": 1.0520037591523441e-16}
+{"id": 38157, "tool": "admesh", "in_problems": ["2 non-manifold edges", "41 open edges"], "time": 0.25, "problems": ["14 non-manifold edges", "6 open edges"], "ok": false, "lost": 1.550706991374389e-16, "added": 1.0520037591523441e-16}
+{"id": 38157, "tool": "stlfix", "in_problems": ["2 non-manifold edges", "41 open edges"], "pick": "B", "time": 42.1, "problems": [], "ok": true, "lost": 0.004175616042171087, "added": 0.0040658224309767415}
+{"id": 388568, "tool": "stlfix", "in_problems": ["13 non-manifold edges", "6 open edges"], "pick": "B", "time": 1.15, "problems": [], "ok": true, "lost": 1.8341481176707458e-15, "added": 1.5391911401644525e-15}
+{"id": 388568, "tool": "A", "in_problems": ["13 non-manifold edges", "6 open edges"], "time": 0.05, "problems": [], "ok": true, "lost": 1.6987826013136687e-15, "added": 3.2575834464415263e-15}
+{"id": 388568, "tool": "B", "in_problems": ["13 non-manifold edges", "6 open edges"], "time": 0.02, "problems": [], "ok": true, "lost": 1.8341481176707458e-15, "added": 1.5391911401644525e-15}
+{"id": 388568, "tool": "meshlab", "in_problems": ["13 non-manifold edges", "6 open edges"], "time": 0.15, "problems": ["1 non-manifold edges"], "ok": false, "lost": 1.3744521806131519e-15, "added": 1.3361394312899804e-15}
+{"id": 388568, "tool": "admesh", "in_problems": ["13 non-manifold edges", "6 open edges"], "time": 0.01, "problems": ["13 non-manifold edges", "6 open edges"], "ok": false, "lost": 1.3744521806131519e-15, "added": 1.3361394312899804e-15}
+{"id": 388570, "tool": "A", "in_problems": ["27 non-manifold edges", "20 open edges"], "time": 0.15, "problems": [], "ok": true, "lost": 0.033005090531479445, "added": 0.0036090254704282533}
+{"id": 388570, "tool": "stlfix", "in_problems": ["27 non-manifold edges", "20 open edges"], "pick": "input", "time": 1.21, "problems": ["27 non-manifold edges", "20 open edges"], "ok": false, "lost": 1.6684847151478576e-15, "added": 1.569538518494218e-15}
+{"id": 388570, "tool": "B", "in_problems": ["27 non-manifold edges", "20 open edges"], "time": 0.12, "problems": [], "ok": true, "lost": 0.033005090531479445, "added": 0.004407503613714464}
+{"id": 388570, "tool": "meshlab", "in_problems": ["27 non-manifold edges", "20 open edges"], "time": 0.1, "problems": ["1 non-manifold edges", "9 open edges"], "ok": false, "lost": 1.6684847151478576e-15, "added": 1.5145058924109151e-15}
+{"id": 388570, "tool": "admesh", "in_problems": ["27 non-manifold edges", "20 open edges"], "time": 0.01, "problems": ["27 non-manifold edges", "20 open edges"], "ok": false, "lost": 1.6684847151478576e-15, "added": 1.5145058924109151e-15}
+{"id": 39157, "tool": "A", "in_problems": ["103 non-manifold edges", "9 open edges"], "time": 1.84, "problems": [], "ok": true, "lost": 7.347142194634618e-15, "added": 8.99563788434349e-15}
+{"id": 39157, "tool": "stlfix", "in_problems": ["103 non-manifold edges", "9 open edges"], "pick": "A", "time": 4.43, "problems": [], "ok": true, "lost": 7.347142194634618e-15, "added": 8.99563788434349e-15}
+{"id": 39157, "tool": "B", "in_problems": ["103 non-manifold edges", "9 open edges"], "time": 1.96, "problems": ["10 non-manifold edges", "2 open edges"], "ok": false, "lost": 1.0766361358403604e-14, "added": 8.979194575796053e-15}
+{"id": 39157, "tool": "meshlab", "in_problems": ["103 non-manifold edges", "9 open edges"], "time": 0.23, "problems": ["1 non-manifold edges", "370 open edges"], "ok": false, "lost": 1.1429784294981118e-14, "added": 8.485522048833548e-15}
+{"id": 39157, "tool": "admesh", "in_problems": ["103 non-manifold edges", "9 open edges"], "time": 0.08, "problems": ["103 non-manifold edges", "9 open edges"], "ok": false, "lost": 8.835658954874702e-15, "added": 8.522363114684802e-15}
+{"id": 39381, "tool": "A", "in_problems": ["1 non-manifold edges"], "time": 0.89, "problems": [], "ok": true, "lost": 9.969393920471362e-09, "added": 1.0945713352022076e-08}
+{"id": 39381, "tool": "stlfix", "in_problems": ["1 non-manifold edges"], "pick": "B", "time": 4.07, "problems": [], "ok": true, "lost": 9.969393920471362e-09, "added": 1.1848839027549949e-08}
+{"id": 39381, "tool": "B", "in_problems": ["1 non-manifold edges"], "time": 1.06, "problems": [], "ok": true, "lost": 9.969393920471362e-09, "added": 1.1848839027549949e-08}
+{"id": 39381, "tool": "meshlab", "in_problems": ["1 non-manifold edges"], "time": 0.45, "problems": ["3 open edges"], "ok": false, "lost": 8.246979395583945e-17, "added": 7.753688083039885e-17}
+{"id": 39381, "tool": "admesh", "in_problems": ["1 non-manifold edges"], "time": 0.2, "problems": ["1 non-manifold edges"], "ok": false, "lost": 8.246979395583945e-17, "added": 8.246979395583945e-17}
+{"id": 39459, "tool": "A", "in_problems": [], "time": 0.04, "problems": [], "ok": true, "lost": 5.737182222945396e-16, "added": 5.730315610135784e-16}
+{"id": 39459, "tool": "B", "in_problems": [], "time": 0.04, "problems": [], "ok": true, "lost": 5.737182222945396e-16, "added": 4.123591843531376e-16}
+{"id": 39459, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 2.08, "problems": [], "ok": true, "lost": 5.737182222945396e-16, "added": 5.730315610135784e-16}
+{"id": 39459, "tool": "meshlab", "in_problems": [], "time": 0.12, "problems": [], "ok": true, "lost": 5.737182222945396e-16, "added": 5.730315610135784e-16}
+{"id": 39459, "tool": "admesh", "in_problems": [], "time": 0.03, "problems": [], "ok": true, "lost": 5.737182222945396e-16, "added": 6.669799275330084e-16}
+{"id": 39497, "tool": "A", "in_problems": ["8 non-manifold edges", "4 open edges"], "time": 1.27, "problems": [], "ok": true, "lost": 1.9613363096661702e-13, "added": 1.4466471239271745e-13}
+{"id": 38157, "tool": "B", "in_problems": ["2 non-manifold edges", "41 open edges"], "time": 39.64, "problems": [], "ok": true, "lost": 0.004175616042171087, "added": 0.0040658224309767415}
+{"id": 39497, "tool": "stlfix", "in_problems": ["8 non-manifold edges", "4 open edges"], "pick": "A", "time": 3.8, "problems": [], "ok": true, "lost": 1.9613363096661702e-13, "added": 1.4466471239271745e-13}
+{"id": 39497, "tool": "B", "in_problems": ["8 non-manifold edges", "4 open edges"], "time": 0.13, "problems": [], "ok": true, "lost": 1.398796336398941e-13, "added": 1.3539899554442037e-13}
+{"id": 39497, "tool": "meshlab", "in_problems": ["8 non-manifold edges", "4 open edges"], "time": 0.27, "problems": [], "ok": true, "lost": 1.398796336398941e-13, "added": 1.592161301890942e-13}
+{"id": 39497, "tool": "admesh", "in_problems": ["8 non-manifold edges", "4 open edges"], "time": 0.09, "problems": ["8 non-manifold edges", "4 open edges"], "ok": false, "lost": 1.398796336398941e-13, "added": 1.5093433277706704e-13}
+{"id": 39644, "tool": "stlfix", "in_problems": ["4 non-manifold edges"], "pick": "B", "time": 1.48, "problems": [], "ok": true, "lost": 5.289663290346355e-16, "added": 1.2706293728200791e-15}
+{"id": 39644, "tool": "A", "in_problems": ["4 non-manifold edges"], "time": 0.03, "problems": ["4 non-manifold edges"], "ok": false, "lost": 2.1879247271062044e-15, "added": 1.4034211840614464e-15}
+{"id": 39644, "tool": "B", "in_problems": ["4 non-manifold edges"], "time": 0.02, "problems": [], "ok": true, "lost": 5.289663290346355e-16, "added": 1.2706293728200791e-15}
+{"id": 39644, "tool": "admesh", "in_problems": ["4 non-manifold edges"], "time": 0.01, "problems": ["4 non-manifold edges"], "ok": false, "lost": 2.1872267573311747e-15, "added": 7.579989283489867e-16}
+{"id": 39644, "tool": "meshlab", "in_problems": ["4 non-manifold edges"], "time": 0.14, "problems": ["2 non-manifold edges"], "ok": false, "lost": 0.0010078587148157393, "added": 0.009971101228383659}
+{"id": 39892, "tool": "A", "in_problems": ["5 non-manifold edges", "7 open edges"], "time": 0.02, "problems": [], "ok": true, "lost": 2.14759144105961e-15, "added": 1.0567536752218114e-14}
+{"id": 39892, "tool": "stlfix", "in_problems": ["5 non-manifold edges", "7 open edges"], "pick": "A", "time": 1.16, "problems": [], "ok": true, "lost": 2.14759144105961e-15, "added": 1.0567536752218114e-14}
+{"id": 39892, "tool": "B", "in_problems": ["5 non-manifold edges", "7 open edges"], "time": 0.01, "problems": [], "ok": true, "lost": 9.9340148427942e-15, "added": 9.48771942090108e-15}
+{"id": 39892, "tool": "admesh", "in_problems": ["5 non-manifold edges", "7 open edges"], "time": 0.0, "problems": ["5 non-manifold edges", "7 open edges"], "ok": false, "lost": 9.9340148427942e-15, "added": 1.0970640235001947e-14}
+{"id": 39892, "tool": "meshlab", "in_problems": ["5 non-manifold edges", "7 open edges"], "time": 0.1, "problems": ["6 open edges"], "ok": false, "lost": 9.9340148427942e-15, "added": 0.008963232057062639}
+{"id": 40261, "tool": "A", "in_problems": ["2 non-manifold edges", "2 open edges"], "time": 0.54, "problems": [], "ok": true, "lost": 3.9333844672302835e-09, "added": 3.9333844672302835e-09}
+{"id": 40261, "tool": "B", "in_problems": ["2 non-manifold edges", "2 open edges"], "time": 0.55, "problems": [], "ok": true, "lost": 3.9333844672302835e-09, "added": 3.9333844672302835e-09}
+{"id": 40261, "tool": "admesh", "in_problems": ["2 non-manifold edges", "2 open edges"], "time": 0.12, "problems": ["2 non-manifold edges", "2 open edges"], "ok": false, "lost": 2.042032560181656e-16, "added": 2.1106696743247173e-16}
+{"id": 40261, "tool": "meshlab", "in_problems": ["2 non-manifold edges", "2 open edges"], "time": 0.28, "problems": ["3 open edges"], "ok": false, "lost": 2.042032560181656e-16, "added": 2.344729222520146e-16}
+{"id": 40261, "tool": "stlfix", "in_problems": ["2 non-manifold edges", "2 open edges"], "pick": "A", "time": 3.89, "problems": [], "ok": true, "lost": 3.9333844672302835e-09, "added": 3.9333844672302835e-09}
+{"id": 409627, "tool": "A", "in_problems": [], "time": 0.33, "problems": [], "ok": true, "lost": 6.87377622806471e-17, "added": 7.441989543235099e-17}
+{"id": 409627, "tool": "B", "in_problems": [], "time": 0.58, "problems": [], "ok": true, "lost": 6.87377622806471e-17, "added": 7.441989543235099e-17}
+{"id": 409627, "tool": "meshlab", "in_problems": [], "time": 0.46, "problems": [], "ok": true, "lost": 6.87377622806471e-17, "added": 6.978445937074997e-17}
+{"id": 409627, "tool": "admesh", "in_problems": [], "time": 0.33, "problems": [], "ok": true, "lost": 6.87377622806471e-17, "added": 7.441989543235099e-17}
+{"id": 409627, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 3.63, "problems": [], "ok": true, "lost": 6.87377622806471e-17, "added": 7.441989543235099e-17}
+{"id": 41082, "tool": "A", "in_problems": ["189 open edges"], "time": 0.61, "problems": [], "ok": true, "lost": 0.6117178161073176, "added": 0.0361726630657491}
+{"id": 41082, "tool": "B", "in_problems": ["189 open edges"], "time": 0.28, "problems": ["185 open edges"], "ok": false, "lost": 2.164565116413969e-15, "added": 0.11002796105393911}
+{"id": 41082, "tool": "stlfix", "in_problems": ["189 open edges"], "pick": "input", "time": 2.52, "problems": ["189 open edges"], "ok": false, "lost": 2.164565116413969e-15, "added": 2.164565116413969e-15}
+{"id": 41082, "tool": "meshlab", "in_problems": ["189 open edges"], "time": 0.17, "problems": ["185 open edges"], "ok": false, "lost": 2.164565116413969e-15, "added": 0.10971981314001043}
+{"id": 41082, "tool": "admesh", "in_problems": ["189 open edges"], "time": 0.04, "problems": ["185 open edges"], "ok": false, "lost": 2.164565116413969e-15, "added": 0.11611064294603508}
+{"id": 41089, "tool": "A", "in_problems": ["166 open edges"], "time": 0.33, "problems": [], "ok": true, "lost": 0.32890710872023177, "added": 0.03855450598353148}
+{"id": 41089, "tool": "B", "in_problems": ["166 open edges"], "time": 0.19, "problems": ["2 non-manifold edges", "154 open edges"], "ok": false, "lost": 1.0163809013338769e-14, "added": 7.081628666779441e-15}
+{"id": 41089, "tool": "meshlab", "in_problems": ["166 open edges"], "time": 0.11, "problems": ["150 open edges"], "ok": false, "lost": 1.0163809013338769e-14, "added": 1.0163809013338769e-14}
+{"id": 41089, "tool": "admesh", "in_problems": ["166 open edges"], "time": 0.06, "problems": ["150 open edges"], "ok": false, "lost": 1.0163809013338769e-14, "added": 1.0163809013338769e-14}
+{"id": 41089, "tool": "stlfix", "in_problems": ["166 open edges"], "pick": "B", "time": 2.3, "problems": ["2 non-manifold edges", "154 open edges"], "ok": false, "lost": 1.0163809013338769e-14, "added": 7.081628666779441e-15}
+{"id": 41705, "tool": "A", "in_problems": ["29 non-manifold edges", "279 open edges"], "time": 0.44, "problems": [], "ok": true, "lost": 0.3124502056068213, "added": 0.03767384507474871}
+{"id": 41705, "tool": "B", "in_problems": ["29 non-manifold edges", "279 open edges"], "time": 0.51, "problems": ["24 non-manifold edges", "264 open edges"], "ok": false, "lost": 4.31437303506041e-15, "added": 4.1648110840905764e-15}
+{"id": 41705, "tool": "meshlab", "in_problems": ["29 non-manifold edges", "279 open edges"], "time": 0.14, "problems": ["3 non-manifold edges", "296 open edges"], "ok": false, "lost": 5.05619612687047e-15, "added": 7.810381735539087e-15}
+{"id": 41705, "tool": "admesh", "in_problems": ["29 non-manifold edges", "279 open edges"], "time": 0.04, "problems": ["36 non-manifold edges", "277 open edges"], "ok": false, "lost": 4.494092106486496e-15, "added": 6.337650250591749e-15}
+{"id": 41705, "tool": "stlfix", "in_problems": ["29 non-manifold edges", "279 open edges"], "pick": "B", "time": 3.56, "problems": ["24 non-manifold edges", "264 open edges"], "ok": false, "lost": 4.31437303506041e-15, "added": 4.1648110840905764e-15}
+{"id": 41938, "tool": "A", "in_problems": ["58 non-manifold edges", "15 open edges"], "time": 0.24, "problems": [], "ok": true, "lost": 0.1512554756843491, "added": 3.0842994036742254e-09}
+{"id": 41938, "tool": "meshlab", "in_problems": ["58 non-manifold edges", "15 open edges"], "time": 0.18, "problems": ["6 non-manifold edges", "136 open edges"], "ok": false, "lost": 6.836291937197833e-16, "added": 5.839735088820475e-16}
+{"id": 41938, "tool": "B", "in_problems": ["58 non-manifold edges", "15 open edges"], "time": 0.36, "problems": ["41 non-manifold edges"], "ok": false, "lost": 4.982327220038963e-09, "added": 3.742700554234757e-09}
+{"id": 41938, "tool": "stlfix", "in_problems": ["58 non-manifold edges", "15 open edges"], "pick": "B", "time": 2.77, "problems": ["41 non-manifold edges"], "ok": false, "lost": 4.982327220038963e-09, "added": 3.742700554234757e-09}
+{"id": 41938, "tool": "admesh", "in_problems": ["58 non-manifold edges", "15 open edges"], "time": 0.06, "problems": ["58 non-manifold edges", "3 open edges"], "ok": false, "lost": 5.835375149251898e-16, "added": 5.419592397036313e-16}
+{"id": 42237, "tool": "A", "in_problems": ["30 open edges"], "time": 0.1, "problems": [], "ok": true, "lost": 1.8767940783211522e-13, "added": 1.6660630473539784e-13}
+{"id": 42237, "tool": "B", "in_problems": ["30 open edges"], "time": 0.06, "problems": [], "ok": true, "lost": 1.8767940783211522e-13, "added": 1.44336355702245e-13}
+{"id": 42237, "tool": "stlfix", "in_problems": ["30 open edges"], "pick": "A", "time": 2.11, "problems": [], "ok": true, "lost": 1.8767940783211522e-13, "added": 1.6660630473539784e-13}
+{"id": 42237, "tool": "meshlab", "in_problems": ["30 open edges"], "time": 0.11, "problems": ["30 open edges"], "ok": false, "lost": 1.6398559630448716e-13, "added": 1.6398559630448716e-13}
+{"id": 42237, "tool": "admesh", "in_problems": ["30 open edges"], "time": 0.02, "problems": ["30 open edges"], "ok": false, "lost": 1.6398559630448716e-13, "added": 1.6398559630448716e-13}
+{"id": 42821, "tool": "A", "in_problems": ["5 non-manifold edges", "35 open edges"], "time": 0.93, "problems": [], "ok": true, "lost": 0.03209831069181997, "added": 0.011098385704257958}
+{"id": 42821, "tool": "B", "in_problems": ["5 non-manifold edges", "35 open edges"], "time": 1.05, "problems": [], "ok": true, "lost": 0.03209831069181997, "added": 0.01081826834455519}
+{"id": 42821, "tool": "meshlab", "in_problems": ["5 non-manifold edges", "35 open edges"], "time": 0.16, "problems": ["3 non-manifold edges", "26 open edges"], "ok": false, "lost": 1.6555850301086671e-16, "added": 1.7064713450616782e-16}
+{"id": 42821, "tool": "admesh", "in_problems": ["5 non-manifold edges", "35 open edges"], "time": 0.04, "problems": ["5 non-manifold edges", "24 open edges"], "ok": false, "lost": 1.6555850301086671e-16, "added": 1.4396321957380083e-16}
+{"id": 42821, "tool": "stlfix", "in_problems": ["5 non-manifold edges", "35 open edges"], "pick": "input", "time": 2.91, "problems": ["5 non-manifold edges", "35 open edges"], "ok": false, "lost": 1.6555850301086671e-16, "added": 1.6555284587475243e-16}
+{"id": 42941, "tool": "A", "in_problems": ["24 open edges"], "time": 0.16, "problems": [], "ok": true, "lost": 2.2791971800148525e-16, "added": 2.68802237754135e-16}
+{"id": 42941, "tool": "B", "in_problems": ["24 open edges"], "time": 0.16, "problems": [], "ok": true, "lost": 2.2791971800148525e-16, "added": 2.1865632285602334e-16}
+{"id": 42941, "tool": "meshlab", "in_problems": ["24 open edges"], "time": 0.18, "problems": ["24 open edges"], "ok": false, "lost": 2.1900219045532318e-16, "added": 2.1900219045532318e-16}
+{"id": 42941, "tool": "admesh", "in_problems": ["24 open edges"], "time": 0.04, "problems": ["4 non-manifold edges", "24 open edges"], "ok": false, "lost": 2.1900219045532318e-16, "added": 2.7065194101946335e-16}
+{"id": 42941, "tool": "stlfix", "in_problems": ["24 open edges"], "pick": "B", "time": 2.17, "problems": [], "ok": true, "lost": 2.2791971800148525e-16, "added": 2.1865632285602334e-16}
+{"id": 44065, "tool": "A", "in_problems": ["4 open edges"], "time": 0.04, "problems": ["4 open edges"], "ok": false, "lost": 1.1105559511825047e-15, "added": 1.0786659535260215e-15}
+{"id": 44065, "tool": "B", "in_problems": ["4 open edges"], "time": 0.07, "problems": ["4 open edges"], "ok": false, "lost": 1.1105559511825047e-15, "added": 1.0881161768734858e-15}
+{"id": 44065, "tool": "stlfix", "in_problems": ["4 open edges"], "pick": "A", "time": 1.54, "problems": ["4 open edges"], "ok": false, "lost": 1.1105559511825047e-15, "added": 1.0786659535260215e-15}
+{"id": 44065, "tool": "admesh", "in_problems": ["4 open edges"], "time": 0.01, "problems": ["4 open edges"], "ok": false, "lost": 1.1105559511825047e-15, "added": 1.0786659535260215e-15}
+{"id": 44065, "tool": "meshlab", "in_problems": ["4 open edges"], "time": 0.14, "problems": ["4 open edges"], "ok": false, "lost": 1.1105559511825047e-15, "added": 1.0786659535260215e-15}
+{"id": 45008, "tool": "B", "in_problems": ["3 open edges"], "time": 25.2, "problems": ["3 open edges"], "ok": false, "lost": 1.9888443000169253e-13, "added": 2.3438075628809205e-13}
+{"id": 45008, "tool": "meshlab", "in_problems": ["3 open edges"], "time": 0.22, "problems": ["3 open edges"], "ok": false, "lost": 1.9888443000169253e-13, "added": 3.069121290718242e-13}
+{"id": 45008, "tool": "admesh", "in_problems": ["3 open edges"], "time": 0.07, "problems": ["3 open edges"], "ok": false, "lost": 1.9888443000169253e-13, "added": 3.069121290718242e-13}
+{"id": 45008, "tool": "stlfix", "in_problems": ["3 open edges"], "pick": "B", "time": 49.8, "problems": ["3 open edges"], "ok": false, "lost": 1.9888443000169253e-13, "added": 2.3438075628809205e-13}
+{"id": 45008, "tool": "A", "in_problems": ["3 open edges"], "time": 49.21, "problems": ["overlapping parts"], "ok": false, "lost": 0.21743477618364954, "added": 0.03692249482964747}
+{"id": 45561, "tool": "B", "in_problems": ["25 non-manifold edges", "2490 open edges"], "time": 11.16, "problems": ["699 open edges"], "ok": false, "lost": 0.012748645412192079, "added": 0.006489883048382239}
+{"id": 45561, "tool": "meshlab", "in_problems": ["25 non-manifold edges", "2490 open edges"], "time": 0.17, "problems": ["1468 open edges"], "ok": false, "lost": 1.532300140631014e-14, "added": 1.4567249808089303e-14}
+{"id": 45561, "tool": "admesh", "in_problems": ["25 non-manifold edges", "2490 open edges"], "time": 0.04, "problems": ["25 non-manifold edges"], "ok": false, "lost": 1.0425009909577829e-14, "added": 1.9954164902348288e-14}
+{"id": 45803, "tool": "stlfix", "in_problems": ["4 open edges"], "pick": "A", "time": 2.56, "problems": ["overlapping parts"], "ok": false, "lost": 0.005557506661367875, "added": 0.0057675912332036585}
+{"id": 45803, "tool": "A", "in_problems": ["4 open edges"], "time": 0.37, "problems": ["overlapping parts"], "ok": false, "lost": 0.005557506661367875, "added": 0.0057675912332036585}
+{"id": 45803, "tool": "B", "in_problems": ["4 open edges"], "time": 0.4, "problems": [], "ok": true, "lost": 0.005557506661367874, "added": 0.006142467361144214}
+{"id": 45803, "tool": "meshlab", "in_problems": ["4 open edges"], "time": 0.11, "problems": ["4 open edges"], "ok": false, "lost": 4.899763972348085e-15, "added": 4.081262659364293e-15}
+{"id": 45803, "tool": "admesh", "in_problems": ["4 open edges"], "time": 0.02, "problems": ["4 open edges"], "ok": false, "lost": 4.899763972348085e-15, "added": 4.081262659364293e-15}
+{"id": 464848, "tool": "stlfix", "in_problems": ["134 non-manifold edges", "78 open edges"], "pick": "A", "time": 6.49, "problems": [], "ok": true, "lost": 1.9413848936455828e-13, "added": 1.716701608699643e-13}
+{"id": 464848, "tool": "A", "in_problems": ["134 non-manifold edges", "78 open edges"], "time": 1.6, "problems": [], "ok": true, "lost": 1.9413848936455828e-13, "added": 1.716701608699643e-13}
+{"id": 464848, "tool": "B", "in_problems": ["134 non-manifold edges", "78 open edges"], "time": 3.82, "problems": ["134 open edges"], "ok": false, "lost": 5.224442541836185e-09, "added": 5.113642278882629e-09}
+{"id": 464848, "tool": "meshlab", "in_problems": ["134 non-manifold edges", "78 open edges"], "time": 0.1, "problems": ["16 open edges"], "ok": false, "lost": 1.7640787298071663e-13, "added": 1.7655645939693128e-13}
+{"id": 464848, "tool": "admesh", "in_problems": ["134 non-manifold edges", "78 open edges"], "time": 0.02, "problems": ["135 non-manifold edges", "1 open edges"], "ok": false, "lost": 1.6629264502052807e-13, "added": 1.7920492404688182e-13}
+{"id": 47089, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 2.99, "problems": [], "ok": true, "lost": 1.2725562943137149e-14, "added": 1.2719792917846444e-14}
+{"id": 47089, "tool": "A", "in_problems": [], "time": 0.06, "problems": [], "ok": true, "lost": 1.2725562943137149e-14, "added": 1.2719792917846444e-14}
+{"id": 47089, "tool": "B", "in_problems": [], "time": 0.07, "problems": [], "ok": true, "lost": 1.2725562943137149e-14, "added": 1.2606927450995912e-14}
+{"id": 47089, "tool": "meshlab", "in_problems": [], "time": 0.19, "problems": [], "ok": true, "lost": 1.2725562943137149e-14, "added": 1.2719792917846444e-14}
+{"id": 47089, "tool": "admesh", "in_problems": [], "time": 0.03, "problems": [], "ok": true, "lost": 1.2725562943137149e-14, "added": 1.2185778413492126e-14}
+{"id": 474360, "tool": "stlfix", "in_problems": ["13 non-manifold edges", "16 open edges"], "pick": "A", "time": 5.29, "problems": [], "ok": true, "lost": 4.50199255863946e-09, "added": 4.1677407412645514e-09}
+{"id": 45561, "tool": "stlfix", "in_problems": ["25 non-manifold edges", "2490 open edges"], "pick": "input", "time": 77.98, "problems": ["25 non-manifold edges", "2490 open edges"], "ok": false, "lost": 1.4664088381520154e-14, "added": 1.1901701791040099e-14}
+{"id": 474360, "tool": "A", "in_problems": ["13 non-manifold edges", "16 open edges"], "time": 1.74, "problems": [], "ok": true, "lost": 4.50199255863946e-09, "added": 4.1677407412645514e-09}
+{"id": 474360, "tool": "B", "in_problems": ["13 non-manifold edges", "16 open edges"], "time": 1.75, "problems": [], "ok": true, "lost": 4.50199255863946e-09, "added": 4.288421390387746e-09}
+{"id": 474360, "tool": "meshlab", "in_problems": ["13 non-manifold edges", "16 open edges"], "time": 0.15, "problems": ["11 open edges"], "ok": false, "lost": 8.565023995430487e-14, "added": 6.274438689053969e-14}
+{"id": 474360, "tool": "admesh", "in_problems": ["13 non-manifold edges", "16 open edges"], "time": 0.04, "problems": ["11 non-manifold edges", "3 open edges"], "ok": false, "lost": 8.565023995430487e-14, "added": 8.962694276031101e-14}
+{"id": 47567, "tool": "stlfix", "in_problems": ["120 non-manifold edges"], "pick": "B", "time": 1.52, "problems": [], "ok": true, "lost": 6.369683475789191e-16, "added": 7.772004420281563e-16}
+{"id": 47567, "tool": "A", "in_problems": ["120 non-manifold edges"], "time": 0.14, "problems": ["108 non-manifold edges"], "ok": false, "lost": 6.754860976164047e-16, "added": 1.3600484229539947e-15}
+{"id": 47567, "tool": "B", "in_problems": ["120 non-manifold edges"], "time": 0.08, "problems": [], "ok": true, "lost": 6.369683475789191e-16, "added": 7.772004420281563e-16}
+{"id": 47567, "tool": "meshlab", "in_problems": ["120 non-manifold edges"], "time": 0.18, "problems": ["129 non-manifold edges", "23 open edges"], "ok": false, "lost": 1.0959685019848531e-15, "added": 0.05497771800472089}
+{"id": 47567, "tool": "admesh", "in_problems": ["120 non-manifold edges"], "time": 0.01, "problems": ["120 non-manifold edges"], "ok": false, "lost": 8.763929009931583e-16, "added": 8.718408938843083e-16}
+{"id": 47568, "tool": "A", "in_problems": ["65 non-manifold edges", "3 open edges"], "time": 0.06, "problems": ["49 non-manifold edges"], "ok": false, "lost": 1.910602896852278e-14, "added": 1.9824907834914003e-14}
+{"id": 47568, "tool": "stlfix", "in_problems": ["65 non-manifold edges", "3 open edges"], "pick": "B", "time": 1.45, "problems": [], "ok": true, "lost": 3.4348986558151193e-16, "added": 1.4462248801762656e-16}
+{"id": 47568, "tool": "B", "in_problems": ["65 non-manifold edges", "3 open edges"], "time": 0.04, "problems": [], "ok": true, "lost": 3.4348986558151193e-16, "added": 1.4462248801762656e-16}
+{"id": 47568, "tool": "meshlab", "in_problems": ["65 non-manifold edges", "3 open edges"], "time": 0.14, "problems": ["8 non-manifold edges", "89 open edges"], "ok": false, "lost": 1.0040408000266665e-14, "added": 0.031147085878699632}
+{"id": 47568, "tool": "admesh", "in_problems": ["65 non-manifold edges", "3 open edges"], "time": 0.01, "problems": ["65 non-manifold edges", "3 open edges"], "ok": false, "lost": 1.4682985773830893e-16, "added": 1.4742902401256007e-16}
+{"id": 494999, "tool": "A", "in_problems": ["207 non-manifold edges", "4 open edges"], "time": 0.07, "problems": [], "ok": true, "lost": 1.1414568592208638e-14, "added": 9.361011060385758e-15}
+{"id": 494999, "tool": "B", "in_problems": ["207 non-manifold edges", "4 open edges"], "time": 0.1, "problems": ["132 non-manifold edges", "4 open edges"], "ok": false, "lost": 3.304351560613844e-15, "added": 4.976362469865598e-16}
+{"id": 494999, "tool": "stlfix", "in_problems": ["207 non-manifold edges", "4 open edges"], "pick": "A", "time": 2.2, "problems": [], "ok": true, "lost": 1.1414568592208638e-14, "added": 9.361011060385758e-15}
+{"id": 494999, "tool": "meshlab", "in_problems": ["207 non-manifold edges", "4 open edges"], "time": 0.15, "problems": ["13 non-manifold edges", "86 open edges"], "ok": false, "lost": 4.728654801008365e-16, "added": 4.564165558350805e-16}
+{"id": 494999, "tool": "admesh", "in_problems": ["207 non-manifold edges", "4 open edges"], "time": 0.02, "problems": ["207 non-manifold edges", "4 open edges"], "ok": false, "lost": 6.844774858245566e-16, "added": 4.699655925191734e-16}
+{"id": 45561, "tool": "A", "in_problems": ["25 non-manifold edges", "2490 open edges"], "time": 73.88, "problems": ["overlapping parts"], "ok": false, "lost": 0.012748645412192079, "added": 0.005615181005499403}
+{"id": 49874, "tool": "B", "in_problems": ["221 non-manifold edges", "37 open edges"], "time": 4.18, "problems": ["182 non-manifold edges", "23 open edges"], "ok": false, "lost": 5.010749716426657e-10, "added": 2.8292586017927117e-10}
+{"id": 49874, "tool": "A", "in_problems": ["221 non-manifold edges", "37 open edges"], "time": 7.01, "problems": ["187 non-manifold edges", "8 open edges"], "ok": false, "lost": 0.17551774761148414, "added": 0.06384156718546259}
+{"id": 49874, "tool": "meshlab", "in_problems": ["221 non-manifold edges", "37 open edges"], "time": 0.51, "problems": ["27 non-manifold edges", "348 open edges"], "ok": false, "lost": 6.370881710980535e-14, "added": 4.460474855909776e-14}
+{"id": 49874, "tool": "stlfix", "in_problems": ["221 non-manifold edges", "37 open edges"], "pick": "B", "time": 8.94, "problems": ["182 non-manifold edges", "23 open edges"], "ok": false, "lost": 5.010749716426657e-10, "added": 2.8292586017927117e-10}
+{"id": 49874, "tool": "admesh", "in_problems": ["221 non-manifold edges", "37 open edges"], "time": 0.16, "problems": ["243 non-manifold edges", "17 open edges"], "ok": false, "lost": 1.6573493355274358e-14, "added": 0.0008130836146659054}
+{"id": 50240, "tool": "B", "in_problems": ["52 non-manifold edges", "676 open edges"], "time": 53.31, "problems": ["12 non-manifold edges", "8 open edges"], "ok": false, "lost": 0.1410431813145156, "added": 0.10245230612383291}
+{"id": 50240, "tool": "meshlab", "in_problems": ["52 non-manifold edges", "676 open edges"], "time": 0.19, "problems": ["10 non-manifold edges", "606 open edges"], "ok": false, "lost": 2.973372651552034e-15, "added": 3.076422962817728e-15}
+{"id": 50240, "tool": "admesh", "in_problems": ["52 non-manifold edges", "676 open edges"], "time": 0.03, "problems": ["69 non-manifold edges", "498 open edges"], "ok": false, "lost": 2.067675010937582e-15, "added": 2.797882310455057e-15}
+{"id": 510028, "tool": "stlfix", "in_problems": ["119 non-manifold edges", "4 open edges"], "pick": "A", "time": 2.73, "problems": [], "ok": true, "lost": 5.23589220800973e-09, "added": 5.06585554335066e-09}
+{"id": 510028, "tool": "A", "in_problems": ["119 non-manifold edges", "4 open edges"], "time": 0.43, "problems": [], "ok": true, "lost": 5.23589220800973e-09, "added": 5.06585554335066e-09}
+{"id": 510028, "tool": "B", "in_problems": ["119 non-manifold edges", "4 open edges"], "time": 0.18, "problems": ["59 non-manifold edges"], "ok": false, "lost": 1.828473657024497e-15, "added": 1.2300266012677344e-15}
+{"id": 510028, "tool": "meshlab", "in_problems": ["119 non-manifold edges", "4 open edges"], "time": 0.23, "problems": ["7 non-manifold edges", "43 open edges"], "ok": false, "lost": 1.3069777154004903e-15, "added": 1.2649806017873101e-15}
+{"id": 510028, "tool": "admesh", "in_problems": ["119 non-manifold edges", "4 open edges"], "time": 0.05, "problems": ["119 non-manifold edges", "4 open edges"], "ok": false, "lost": 1.676641774795263e-15, "added": 1.30229219464539e-15}
+{"id": 51319, "tool": "stlfix", "in_problems": [], "pick": "input", "time": 1.4, "problems": [], "ok": true, "lost": 3.043026967714855e-16, "added": 3.043026967714855e-16}
+{"id": 51319, "tool": "A", "in_problems": [], "time": 0.02, "problems": [], "ok": true, "lost": 3.2425709092515053e-16, "added": 3.70848426931364e-16}
+{"id": 51319, "tool": "B", "in_problems": [], "time": 0.03, "problems": [], "ok": true, "lost": 3.2425709092515053e-16, "added": 3.391514260770972e-16}
+{"id": 51319, "tool": "meshlab", "in_problems": [], "time": 0.1, "problems": [], "ok": true, "lost": 3.043026967714855e-16, "added": 3.043026967714855e-16}
+{"id": 51319, "tool": "admesh", "in_problems": [], "time": 0.01, "problems": ["inside-out normals"], "ok": false, "lost": 3.2425709092515053e-16, "added": 3.9883900369024248e-16}
+{"id": 51328, "tool": "stlfix", "in_problems": ["6 open edges"], "pick": "input", "time": 1.34, "problems": ["6 open edges"], "ok": false, "lost": 1.6501804604963796e-14, "added": 1.6455214615787786e-14}
+{"id": 51328, "tool": "A", "in_problems": ["6 open edges"], "time": 0.02, "problems": [], "ok": true, "lost": 0.05280884992751536, "added": 0.020849134231058816}
+{"id": 51328, "tool": "B", "in_problems": ["6 open edges"], "time": 0.03, "problems": [], "ok": true, "lost": 0.05280884992751536, "added": 0.020280793458112997}
+{"id": 51328, "tool": "meshlab", "in_problems": ["6 open edges"], "time": 0.13, "problems": ["6 open edges"], "ok": false, "lost": 1.6501804604963796e-14, "added": 1.6455214615787786e-14}
+{"id": 51328, "tool": "admesh", "in_problems": ["6 open edges"], "time": 0.01, "problems": ["6 open edges"], "ok": false, "lost": 1.6501804604963796e-14, "added": 1.6455214615787786e-14}
+{"id": 51333, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 2.2, "problems": [], "ok": true, "lost": 2.7099690945537416e-16, "added": 2.7099690945537416e-16}
+{"id": 51333, "tool": "A", "in_problems": [], "time": 0.1, "problems": [], "ok": true, "lost": 2.7099690945537416e-16, "added": 2.7099690945537416e-16}
+{"id": 51333, "tool": "B", "in_problems": [], "time": 0.11, "problems": [], "ok": true, "lost": 2.7097112664784616e-16, "added": 2.492739874659958e-16}
+{"id": 51333, "tool": "meshlab", "in_problems": [], "time": 0.21, "problems": [], "ok": true, "lost": 2.7099690945537416e-16, "added": 2.7099690945537416e-16}
+{"id": 51333, "tool": "admesh", "in_problems": [], "time": 0.09, "problems": [], "ok": true, "lost": 2.7099690945537416e-16, "added": 2.7099690945537416e-16}
+{"id": 51352, "tool": "stlfix", "in_problems": ["123 open edges"], "pick": "input", "time": 2.68, "problems": ["123 open edges"], "ok": false, "lost": 3.633991155351182e-15, "added": 3.79400321318915e-15}
+{"id": 51352, "tool": "A", "in_problems": ["123 open edges"], "time": 0.44, "problems": [], "ok": true, "lost": 0.33912173762303266, "added": 0.03944601643749881}
+{"id": 50240, "tool": "stlfix", "in_problems": ["52 non-manifold edges", "676 open edges"], "pick": "input", "time": 93.7, "problems": ["56 non-manifold edges", "556 open edges"], "ok": false, "lost": 2.928106476587049e-15, "added": 2.3919030617398985e-15}
+{"id": 51352, "tool": "B", "in_problems": ["123 open edges"], "time": 0.4, "problems": [], "ok": true, "lost": 0.33912173762303266, "added": 0.0387277028935294}
+{"id": 51352, "tool": "admesh", "in_problems": ["123 open edges"], "time": 0.05, "problems": ["16 non-manifold edges", "103 open edges"], "ok": false, "lost": 3.633991155351182e-15, "added": 2.5244304998340378e-14}
+{"id": 51352, "tool": "meshlab", "in_problems": ["123 open edges"], "time": 0.18, "problems": ["103 open edges"], "ok": false, "lost": 3.633991155351182e-15, "added": 5.960147864354251e-15}
+{"id": 51359, "tool": "A", "in_problems": ["284 open edges"], "time": 0.76, "problems": [], "ok": true, "lost": 0.5596705157135035, "added": 0.016571767297531275}
+{"id": 51359, "tool": "B", "in_problems": ["284 open edges"], "time": 0.4, "problems": ["281 open edges"], "ok": false, "lost": 4.7947792540730116e-14, "added": 4.738233766770243e-14}
+{"id": 51359, "tool": "stlfix", "in_problems": ["284 open edges"], "pick": "B", "time": 2.7, "problems": ["281 open edges"], "ok": false, "lost": 4.7947792540730116e-14, "added": 4.738233766770243e-14}
+{"id": 51359, "tool": "meshlab", "in_problems": ["284 open edges"], "time": 0.18, "problems": ["282 open edges"], "ok": false, "lost": 4.7947792540730116e-14, "added": 3.337402945072518e-14}
+{"id": 51359, "tool": "admesh", "in_problems": ["284 open edges"], "time": 0.06, "problems": ["281 open edges"], "ok": false, "lost": 4.7947792540730116e-14, "added": 4.738233766770243e-14}
+{"id": 51452, "tool": "A", "in_problems": ["2 non-manifold edges", "2 open edges"], "time": 0.07, "problems": [], "ok": true, "lost": 8.731940674893807e-09, "added": 7.834495530523582e-09}
+{"id": 51452, "tool": "B", "in_problems": ["2 non-manifold edges", "2 open edges"], "time": 0.04, "problems": [], "ok": true, "lost": 1.0787634793994844e-16, "added": 1.0190440772072603e-16}
+{"id": 50240, "tool": "A", "in_problems": ["52 non-manifold edges", "676 open edges"], "time": 102.09, "problems": ["12 non-manifold edges", "50 open edges"], "ok": false, "lost": 0.1410431813145156, "added": 0.09824261136445678}
+{"id": 51452, "tool": "stlfix", "in_problems": ["2 non-manifold edges", "2 open edges"], "pick": "B", "time": 2.25, "problems": [], "ok": true, "lost": 1.0787634793994844e-16, "added": 1.0190440772072603e-16}
+{"id": 51452, "tool": "meshlab", "in_problems": ["2 non-manifold edges", "2 open edges"], "time": 0.15, "problems": ["3 open edges"], "ok": false, "lost": 1.0787634793994844e-16, "added": 1.1108049316532372e-16}
+{"id": 51452, "tool": "admesh", "in_problems": ["2 non-manifold edges", "2 open edges"], "time": 0.04, "problems": ["27 non-manifold edges"], "ok": false, "lost": 1.0787634793994844e-16, "added": 9.974229045040817e-17}
+{"id": 527583, "tool": "B", "in_problems": ["27 non-manifold edges", "37 open edges"], "time": 0.26, "problems": ["12 non-manifold edges", "26 open edges"], "ok": false, "lost": 0.0019096403976848933, "added": 2.5531965699971663e-05}
+{"id": 527583, "tool": "A", "in_problems": ["27 non-manifold edges", "37 open edges"], "time": 0.31, "problems": ["26 non-manifold edges"], "ok": false, "lost": 6.810356954092233e-08, "added": 3.20668349429467e-06}
+{"id": 527583, "tool": "meshlab", "in_problems": ["27 non-manifold edges", "37 open edges"], "time": 0.14, "problems": ["4 non-manifold edges", "21 open edges"], "ok": false, "lost": 8.852050958280881e-15, "added": 4.538802139070961e-15}
+{"id": 527583, "tool": "admesh", "in_problems": ["27 non-manifold edges", "37 open edges"], "time": 0.03, "problems": ["27 non-manifold edges", "13 open edges"], "ok": false, "lost": 6.996902206383475e-15, "added": 3.958317217125439e-15}
+{"id": 530425, "tool": "A", "in_problems": ["5 non-manifold edges", "40 open edges"], "time": 0.4, "problems": [], "ok": true, "lost": 0.538866099373331, "added": 0.004277121726731162}
+{"id": 527583, "tool": "stlfix", "in_problems": ["27 non-manifold edges", "37 open edges"], "pick": "B", "time": 4.9, "problems": ["12 non-manifold edges", "26 open edges"], "ok": false, "lost": 0.0019096403976848933, "added": 2.5531965699971663e-05}
+{"id": 530425, "tool": "stlfix", "in_problems": ["5 non-manifold edges", "40 open edges"], "pick": "B", "time": 2.38, "problems": ["21 open edges"], "ok": false, "lost": 1.1171481275876914e-14, "added": 1.196465302266873e-14}
+{"id": 530425, "tool": "B", "in_problems": ["5 non-manifold edges", "40 open edges"], "time": 0.09, "problems": ["21 open edges"], "ok": false, "lost": 1.1171481275876914e-14, "added": 1.196465302266873e-14}
+{"id": 530425, "tool": "meshlab", "in_problems": ["5 non-manifold edges", "40 open edges"], "time": 0.16, "problems": ["1 non-manifold edges", "26 open edges"], "ok": false, "lost": 1.1171481275876914e-14, "added": 1.2356519499311325e-14}
+{"id": 530425, "tool": "admesh", "in_problems": ["5 non-manifold edges", "40 open edges"], "time": 0.03, "problems": ["5 non-manifold edges", "22 open edges"], "ok": false, "lost": 1.1171481275876914e-14, "added": 1.3303984398086154e-14}
+{"id": 53800, "tool": "B", "in_problems": ["3152 non-manifold edges"], "time": 5.18, "problems": ["1029 non-manifold edges", "439 open edges"], "ok": false, "lost": 0.0003692088568051498, "added": 9.784275647707462e-09}
+{"id": 53800, "tool": "A", "in_problems": ["3152 non-manifold edges"], "time": 7.69, "problems": ["2170 non-manifold edges", "51 open edges"], "ok": false, "lost": 0.007242893141047365, "added": 7.265967622789783e-05}
+{"id": 53800, "tool": "meshlab", "in_problems": ["3152 non-manifold edges"], "time": 1.0, "problems": ["184 non-manifold edges", "2557 open edges"], "ok": false, "lost": 0.00012779420155357147, "added": 5.476505688137605e-05}
+{"id": 53800, "tool": "admesh", "in_problems": ["3152 non-manifold edges"], "time": 0.35, "problems": ["3152 non-manifold edges"], "ok": false, "lost": 6.982373193547597e-15, "added": 8.106821818415867e-15}
+{"id": 54625, "tool": "A", "in_problems": ["inside-out normals"], "time": 0.43, "problems": [], "ok": true, "lost": 3.8627741585150027e-16, "added": 4.2304338842893923e-16}
+{"id": 54625, "tool": "B", "in_problems": ["inside-out normals"], "time": 0.32, "problems": [], "ok": true, "lost": 3.8627741585150027e-16, "added": 4.4182205453061403e-16}
+{"id": 53800, "tool": "stlfix", "in_problems": ["3152 non-manifold edges"], "pick": "B", "time": 14.21, "problems": ["1029 non-manifold edges", "439 open edges"], "ok": false, "lost": 0.0003692088568051498, "added": 9.784275647707462e-09}
+{"id": 54625, "tool": "stlfix", "in_problems": ["inside-out normals"], "pick": "B", "time": 4.31, "problems": [], "ok": true, "lost": 3.8627741585150027e-16, "added": 4.4182205453061403e-16}
+{"id": 54625, "tool": "meshlab", "in_problems": ["inside-out normals"], "time": 0.21, "problems": ["inside-out normals"], "ok": false, "lost": 3.7694684966722866e-16, "added": 3.8687281890453696e-16}
+{"id": 54625, "tool": "admesh", "in_problems": ["inside-out normals"], "time": 0.04, "problems": [], "ok": true, "lost": 4.5056106363194395e-17, "added": 3.734562686795039e-16}
+{"id": 55363, "tool": "A", "in_problems": ["12 open edges"], "time": 0.09, "problems": [], "ok": true, "lost": 0.6213841390299539, "added": 0.01563553534193395}
+{"id": 55363, "tool": "B", "in_problems": ["12 open edges"], "time": 0.05, "problems": ["12 open edges"], "ok": false, "lost": 2.026403643242203e-15, "added": 2.026403643242203e-15}
+{"id": 55363, "tool": "stlfix", "in_problems": ["12 open edges"], "pick": "B", "time": 1.42, "problems": ["12 open edges"], "ok": false, "lost": 2.026403643242203e-15, "added": 2.026403643242203e-15}
+{"id": 55363, "tool": "meshlab", "in_problems": ["12 open edges"], "time": 0.17, "problems": ["12 open edges"], "ok": false, "lost": 2.026403643242203e-15, "added": 2.026403643242203e-15}
+{"id": 55363, "tool": "admesh", "in_problems": ["12 open edges"], "time": 0.01, "problems": ["12 open edges"], "ok": false, "lost": 2.026403643242203e-15, "added": 2.026403643242203e-15}
+{"id": 56535, "tool": "B", "in_problems": ["154 open edges"], "time": 0.14, "problems": [], "ok": true, "lost": 2.743626677152667e-09, "added": 2.7436266824426876e-09}
+{"id": 56535, "tool": "A", "in_problems": ["154 open edges"], "time": 0.11, "problems": [], "ok": true, "lost": 2.743626677152667e-09, "added": 2.743626672025731e-09}
+{"id": 56535, "tool": "meshlab", "in_problems": ["154 open edges"], "time": 0.18, "problems": ["154 open edges"], "ok": false, "lost": 1.2221751477041345e-15, "added": 1.6580979535331873e-15}
+{"id": 56535, "tool": "admesh", "in_problems": ["154 open edges"], "time": 0.02, "problems": ["154 open edges"], "ok": false, "lost": 1.2221751477041345e-15, "added": 1.5425440304182575e-15}
+{"id": 56535, "tool": "stlfix", "in_problems": ["154 open edges"], "pick": "A", "time": 3.07, "problems": [], "ok": true, "lost": 2.743626677152667e-09, "added": 2.743626672025731e-09}
+{"id": 582284, "tool": "A", "in_problems": ["66 open edges"], "time": 3.1, "problems": [], "ok": true, "lost": 8.473816063070779e-14, "added": 0.0026731331258010396}
+{"id": 582284, "tool": "B", "in_problems": ["66 open edges"], "time": 3.03, "problems": [], "ok": true, "lost": 9.017128755089943e-14, "added": 0.0062619204555083375}
+{"id": 582284, "tool": "meshlab", "in_problems": ["66 open edges"], "time": 0.16, "problems": ["24 open edges"], "ok": false, "lost": 3.004524063503527e-14, "added": 3.589517425473794e-14}
+{"id": 582284, "tool": "admesh", "in_problems": ["66 open edges"], "time": 0.05, "problems": ["66 open edges"], "ok": false, "lost": 3.004524063503527e-14, "added": 3.4882040699609464e-14}
+{"id": 582284, "tool": "stlfix", "in_problems": ["66 open edges"], "pick": "B", "time": 5.62, "problems": [], "ok": true, "lost": 9.017128755089943e-14, "added": 0.0062619204555083375}
+{"id": 58735, "tool": "A", "in_problems": [], "time": 0.26, "problems": [], "ok": true, "lost": 1.496348093999217e-15, "added": 1.4929932246447107e-15}
+{"id": 58735, "tool": "B", "in_problems": [], "time": 0.4, "problems": [], "ok": true, "lost": 1.496348093999217e-15, "added": 1.3735598192160101e-15}
+{"id": 58735, "tool": "meshlab", "in_problems": [], "time": 0.3, "problems": [], "ok": true, "lost": 1.496348093999217e-15, "added": 1.4929932246447107e-15}
+{"id": 58735, "tool": "admesh", "in_problems": [], "time": 0.15, "problems": [], "ok": true, "lost": 1.496348093999217e-15, "added": 1.6038918682385736e-15}
+{"id": 58735, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 3.39, "problems": [], "ok": true, "lost": 1.496348093999217e-15, "added": 1.4929932246447107e-15}
+{"id": 601642, "tool": "A", "in_problems": ["464 non-manifold edges"], "time": 0.71, "problems": ["138 non-manifold edges"], "ok": false, "lost": 0.03971460267015309, "added": 6.628082692172503e-17}
+{"id": 601642, "tool": "B", "in_problems": ["464 non-manifold edges"], "time": 0.67, "problems": ["418 non-manifold edges", "46 open edges"], "ok": false, "lost": 2.6016361383990448e-09, "added": 2.243156918243333e-09}
+{"id": 601642, "tool": "meshlab", "in_problems": ["464 non-manifold edges"], "time": 0.33, "problems": ["378 non-manifold edges", "35 open edges"], "ok": false, "lost": 1.0849289873474693e-16, "added": 1.0317469632902446e-16}
+{"id": 601642, "tool": "admesh", "in_problems": ["464 non-manifold edges"], "time": 0.12, "problems": ["464 non-manifold edges"], "ok": false, "lost": 8.608370781935145e-17, "added": 1.1877667473693506e-16}
+{"id": 601642, "tool": "stlfix", "in_problems": ["464 non-manifold edges"], "pick": "input", "time": 4.15, "problems": ["464 non-manifold edges"], "ok": false, "lost": 9.324741457061188e-17, "added": 9.432851716980367e-17}
+{"id": 601643, "tool": "A", "in_problems": ["448 non-manifold edges"], "time": 0.84, "problems": ["233 non-manifold edges"], "ok": false, "lost": 0.014449729662446226, "added": 8.983534975426589e-16}
+{"id": 601643, "tool": "B", "in_problems": ["448 non-manifold edges"], "time": 0.65, "problems": ["372 non-manifold edges", "76 open edges"], "ok": false, "lost": 1.418536733817608e-09, "added": 1.2392241303018915e-09}
+{"id": 601643, "tool": "meshlab", "in_problems": ["448 non-manifold edges"], "time": 0.27, "problems": ["351 non-manifold edges"], "ok": false, "lost": 6.047297101249909e-16, "added": 6.216278414375881e-16}
+{"id": 601643, "tool": "admesh", "in_problems": ["448 non-manifold edges"], "time": 0.13, "problems": ["448 non-manifold edges"], "ok": false, "lost": 5.082676108896153e-16, "added": 7.654774826068778e-16}
+{"id": 601643, "tool": "stlfix", "in_problems": ["448 non-manifold edges"], "pick": "A", "time": 3.97, "problems": ["233 non-manifold edges"], "ok": false, "lost": 0.014449729662446226, "added": 8.983534975426589e-16}
+{"id": 60814, "tool": "A", "in_problems": ["2 non-manifold edges", "18 open edges"], "time": 0.07, "problems": [], "ok": true, "lost": 0.2760814318217148, "added": 0.0048597833961005485}
+{"id": 60814, "tool": "B", "in_problems": ["2 non-manifold edges", "18 open edges"], "time": 0.08, "problems": ["2 non-manifold edges", "18 open edges"], "ok": false, "lost": 8.77800976771323e-15, "added": 8.755084322833313e-15}
+{"id": 60814, "tool": "stlfix", "in_problems": ["2 non-manifold edges", "18 open edges"], "pick": "B", "time": 1.72, "problems": ["2 non-manifold edges", "18 open edges"], "ok": false, "lost": 8.77800976771323e-15, "added": 8.755084322833313e-15}
+{"id": 60814, "tool": "meshlab", "in_problems": ["2 non-manifold edges", "18 open edges"], "time": 0.23, "problems": ["18 open edges"], "ok": false, "lost": 8.77800976771323e-15, "added": 8.756082271922082e-15}
+{"id": 60814, "tool": "admesh", "in_problems": ["2 non-manifold edges", "18 open edges"], "time": 0.01, "problems": ["4 non-manifold edges", "18 open edges"], "ok": false, "lost": 1.2789431666097409e-14, "added": 9.06887987634903e-15}
+{"id": 611682, "tool": "A", "in_problems": [], "time": 0.51, "problems": [], "ok": true, "lost": 1.0576753364920267e-16, "added": 1.057672083452954e-16}
+{"id": 611682, "tool": "B", "in_problems": [], "time": 0.47, "problems": [], "ok": true, "lost": 1.0576753364920267e-16, "added": 1.0587215175130278e-16}
+{"id": 611682, "tool": "meshlab", "in_problems": [], "time": 0.38, "problems": [], "ok": true, "lost": 1.0576753364920267e-16, "added": 1.057672083452954e-16}
+{"id": 611682, "tool": "admesh", "in_problems": [], "time": 0.21, "problems": [], "ok": true, "lost": 1.0576753364920267e-16, "added": 1.3805969845492522e-16}
+{"id": 611682, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 3.55, "problems": [], "ok": true, "lost": 1.0576753364920267e-16, "added": 1.057672083452954e-16}
+{"id": 613007, "tool": "A", "in_problems": ["33 non-manifold edges"], "time": 0.71, "problems": [], "ok": true, "lost": 1.0446759316709222e-09, "added": 1.0011354019546703e-09}
+{"id": 613007, "tool": "B", "in_problems": ["33 non-manifold edges"], "time": 0.35, "problems": ["21 non-manifold edges"], "ok": false, "lost": 9.660927873584242e-17, "added": 9.44524179719049e-17}
+{"id": 613007, "tool": "meshlab", "in_problems": ["33 non-manifold edges"], "time": 0.49, "problems": ["1 non-manifold edges", "12 open edges"], "ok": false, "lost": 9.445287204278195e-17, "added": 9.428368178547013e-17}
+{"id": 613007, "tool": "admesh", "in_problems": ["33 non-manifold edges"], "time": 0.15, "problems": ["33 non-manifold edges"], "ok": false, "lost": 9.678492766839469e-17, "added": 9.400942776900825e-17}
+{"id": 613007, "tool": "stlfix", "in_problems": ["33 non-manifold edges"], "pick": "A", "time": 3.1, "problems": [], "ok": true, "lost": 1.0446759316709222e-09, "added": 1.0011354019546703e-09}
+{"id": 61760, "tool": "A", "in_problems": ["148 non-manifold edges", "318 open edges"], "time": 25.86, "problems": [], "ok": true, "lost": 3.4183898466476473e-09, "added": 3.5981173396691994e-09}
+{"id": 61760, "tool": "B", "in_problems": ["148 non-manifold edges", "318 open edges"], "time": 28.47, "problems": ["2 non-manifold edges", "9 open edges"], "ok": false, "lost": 3.330204089487898e-09, "added": 3.270435562021286e-09}
+{"id": 61760, "tool": "meshlab", "in_problems": ["148 non-manifold edges", "318 open edges"], "time": 0.46, "problems": ["24 open edges"], "ok": false, "lost": 1.780712816355629e-13, "added": 1.648284380226214e-13}
+{"id": 61760, "tool": "admesh", "in_problems": ["148 non-manifold edges", "318 open edges"], "time": 0.18, "problems": ["264 non-manifold edges", "42 open edges"], "ok": false, "lost": 1.7591817733433918e-13, "added": 1.7529335169409494e-13}
+{"id": 65033, "tool": "A", "in_problems": ["1 non-manifold edges", "2 open edges"], "time": 0.1, "problems": ["overlapping parts"], "ok": false, "lost": 5.075889535148434e-09, "added": 5.075889535148434e-09}
+{"id": 65033, "tool": "stlfix", "in_problems": ["1 non-manifold edges", "2 open edges"], "pick": "B", "time": 4.12, "problems": ["overlapping parts"], "ok": false, "lost": 4.68201461983299e-09, "added": 4.063843148884104e-09}
+{"id": 65033, "tool": "B", "in_problems": ["1 non-manifold edges", "2 open edges"], "time": 0.21, "problems": ["overlapping parts"], "ok": false, "lost": 4.68201461983299e-09, "added": 4.063843148884104e-09}
+{"id": 65033, "tool": "admesh", "in_problems": ["1 non-manifold edges", "2 open edges"], "time": 0.03, "problems": ["1 non-manifold edges", "2 open edges"], "ok": false, "lost": 1.6360612253000015e-16, "added": 2.572007593950837e-16}
+{"id": 65033, "tool": "meshlab", "in_problems": ["1 non-manifold edges", "2 open edges"], "time": 0.14, "problems": ["overlapping parts"], "ok": false, "lost": 1.6360612253000015e-16, "added": 2.4358807461030033e-16}
+{"id": 68254, "tool": "A", "in_problems": ["6 open edges"], "time": 0.06, "problems": [], "ok": true, "lost": 0.027313817873157665, "added": 0.027087833635209682}
+{"id": 61760, "tool": "stlfix", "in_problems": ["148 non-manifold edges", "318 open edges"], "pick": "A", "time": 40.01, "problems": [], "ok": true, "lost": 3.4183898466476473e-09, "added": 3.5981173396691994e-09}
+{"id": 68254, "tool": "stlfix", "in_problems": ["6 open edges"], "pick": "input", "time": 2.21, "problems": ["6 open edges"], "ok": false, "lost": 2.003864731296808e-16, "added": 2.0196894676879716e-16}
+{"id": 68254, "tool": "B", "in_problems": ["6 open edges"], "time": 0.02, "problems": [], "ok": true, "lost": 0.027313817873157665, "added": 0.028519904970454802}
+{"id": 68254, "tool": "meshlab", "in_problems": ["6 open edges"], "time": 0.09, "problems": ["6 open edges"], "ok": false, "lost": 2.003864731296808e-16, "added": 2.08879850182324e-16}
+{"id": 68254, "tool": "admesh", "in_problems": ["6 open edges"], "time": 0.01, "problems": ["6 open edges"], "ok": false, "lost": 2.003864731296808e-16, "added": 2.0205188472106182e-16}
+{"id": 69078, "tool": "A", "in_problems": ["51 non-manifold edges"], "time": 1.29, "problems": [], "ok": true, "lost": 0.015193021439453712, "added": 5.873823712946839e-17}
+{"id": 69078, "tool": "meshlab", "in_problems": ["51 non-manifold edges"], "time": 0.2, "problems": ["51 non-manifold edges"], "ok": false, "lost": 5.873823712946839e-17, "added": 0.004060114965440337}
+{"id": 69078, "tool": "B", "in_problems": ["51 non-manifold edges"], "time": 3.09, "problems": ["51 non-manifold edges"], "ok": false, "lost": 1.9150896807038286e-09, "added": 0.007878758510441342}
+{"id": 69078, "tool": "admesh", "in_problems": ["51 non-manifold edges"], "time": 0.05, "problems": ["51 non-manifold edges"], "ok": false, "lost": 5.873823712946839e-17, "added": 5.873823712946839e-17}
+{"id": 69078, "tool": "stlfix", "in_problems": ["51 non-manifold edges"], "pick": "input", "time": 5.08, "problems": ["51 non-manifold edges"], "ok": false, "lost": 5.873823712946839e-17, "added": 5.873823712946839e-17}
+{"id": 697602, "tool": "A", "in_problems": ["1550 non-manifold edges", "7 open edges"], "time": 9.17, "problems": [], "ok": true, "lost": 0.022313231749251865, "added": 0.0022771144559025447}
+{"id": 697602, "tool": "B", "in_problems": ["1550 non-manifold edges", "7 open edges"], "time": 11.38, "problems": [], "ok": true, "lost": 0.02134028319794427, "added": 0.0014278519364007611}
+{"id": 697602, "tool": "meshlab", "in_problems": ["1550 non-manifold edges", "7 open edges"], "time": 0.34, "problems": ["108 non-manifold edges", "1938 open edges"], "ok": false, "lost": 8.051290931032903e-17, "added": 6.311121241189452e-17}
+{"id": 697602, "tool": "admesh", "in_problems": ["1550 non-manifold edges", "7 open edges"], "time": 0.11, "problems": ["1550 non-manifold edges", "7 open edges"], "ok": false, "lost": 1.411209610954246e-16, "added": 6.311121241189452e-17}
+{"id": 70022, "tool": "A", "in_problems": ["2 non-manifold edges", "11 open edges"], "time": 0.31, "problems": ["2 non-manifold edges", "11 open edges"], "ok": false, "lost": 6.945114522219462e-16, "added": 6.942398694364762e-16}
+{"id": 70022, "tool": "stlfix", "in_problems": ["2 non-manifold edges", "11 open edges"], "pick": "A", "time": 2.46, "problems": ["2 non-manifold edges", "11 open edges"], "ok": false, "lost": 6.945114522219462e-16, "added": 6.942398694364762e-16}
+{"id": 70022, "tool": "B", "in_problems": ["2 non-manifold edges", "11 open edges"], "time": 0.17, "problems": ["2 non-manifold edges", "11 open edges"], "ok": false, "lost": 6.945114522219462e-16, "added": 6.942398694364762e-16}
+{"id": 697602, "tool": "stlfix", "in_problems": ["1550 non-manifold edges", "7 open edges"], "pick": "input", "time": 17.97, "problems": ["1550 non-manifold edges", "7 open edges"], "ok": false, "lost": 8.051290931032903e-17, "added": 8.051290931032903e-17}
+{"id": 70022, "tool": "meshlab", "in_problems": ["2 non-manifold edges", "11 open edges"], "time": 0.19, "problems": ["3 open edges"], "ok": false, "lost": 6.945114522219462e-16, "added": 6.942398694364762e-16}
+{"id": 70022, "tool": "admesh", "in_problems": ["2 non-manifold edges", "11 open edges"], "time": 0.06, "problems": ["4 non-manifold edges", "5 open edges"], "ok": false, "lost": 7.214055014871886e-16, "added": 6.343250985416911e-16}
+{"id": 702409, "tool": "A", "in_problems": ["1215 non-manifold edges"], "time": 0.44, "problems": [], "ok": true, "lost": 0.0021319102090307704, "added": 1.6438596179912904e-14}
+{"id": 702409, "tool": "B", "in_problems": ["1215 non-manifold edges"], "time": 1.23, "problems": ["801 non-manifold edges", "165 open edges"], "ok": false, "lost": 0.032312506839109564, "added": 0.009078024407990496}
+{"id": 702409, "tool": "meshlab", "in_problems": ["1215 non-manifold edges"], "time": 0.39, "problems": ["134 non-manifold edges", "1172 open edges"], "ok": false, "lost": 2.7403584770130724e-05, "added": 0.0002572321446949268}
+{"id": 702409, "tool": "admesh", "in_problems": ["1215 non-manifold edges"], "time": 0.05, "problems": ["1215 non-manifold edges"], "ok": false, "lost": 2.0814376091395515e-14, "added": 1.2991647150957903e-14}
+{"id": 702409, "tool": "stlfix", "in_problems": ["1215 non-manifold edges"], "pick": "A", "time": 3.89, "problems": [], "ok": true, "lost": 0.0021319102090307704, "added": 1.6438596179912904e-14}
+{"id": 71155, "tool": "B", "in_problems": ["62 open edges"], "time": 2.55, "problems": ["3 open edges"], "ok": false, "lost": 0.009227065262626725, "added": 0.008865917769874877}
+{"id": 71155, "tool": "meshlab", "in_problems": ["62 open edges"], "time": 0.17, "problems": ["2 non-manifold edges", "31 open edges"], "ok": false, "lost": 8.139763644884851e-15, "added": 8.70752831781822e-15}
+{"id": 71155, "tool": "admesh", "in_problems": ["62 open edges"], "time": 0.04, "problems": ["26 non-manifold edges", "11 open edges"], "ok": false, "lost": 8.139763644884851e-15, "added": 9.038882609666311e-15}
+{"id": 71155, "tool": "A", "in_problems": ["62 open edges"], "time": 7.66, "problems": [], "ok": true, "lost": 0.01178499085290575, "added": 0.01165596395532484}
+{"id": 71155, "tool": "stlfix", "in_problems": ["62 open edges"], "pick": "B", "time": 9.75, "problems": ["3 open edges"], "ok": false, "lost": 0.009227065262626725, "added": 0.008865917769874877}
+{"id": 72002, "tool": "A", "in_problems": ["1372 non-manifold edges", "67 open edges"], "time": 2.53, "problems": [], "ok": true, "lost": 1.3131344251328856e-16, "added": 1.3217107581483298e-16}
+{"id": 72002, "tool": "B", "in_problems": ["1372 non-manifold edges", "67 open edges"], "time": 1.95, "problems": ["18 non-manifold edges"], "ok": false, "lost": 1.8898567464793106e-16, "added": 9.396884656297494e-17}
+{"id": 72002, "tool": "admesh", "in_problems": ["1372 non-manifold edges", "67 open edges"], "time": 0.44, "problems": ["1344 non-manifold edges", "37 open edges"], "ok": false, "lost": 1.3578315298067815e-16, "added": 1.4568184650659752e-16}
+{"id": 72002, "tool": "meshlab", "in_problems": ["1372 non-manifold edges", "67 open edges"], "time": 1.04, "problems": ["76 non-manifold edges", "765 open edges"], "ok": false, "lost": 1.3578315298067815e-16, "added": 1.0157008078465049e-16}
+{"id": 72604, "tool": "A", "in_problems": [], "time": 0.05, "problems": [], "ok": true, "lost": 1.0488805264311139e-16, "added": 1.0488805264311139e-16}
+{"id": 72604, "tool": "B", "in_problems": [], "time": 0.03, "problems": [], "ok": true, "lost": 1.0488805264311139e-16, "added": 1.0488805264311139e-16}
+{"id": 72604, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 1.79, "problems": [], "ok": true, "lost": 1.0488805264311139e-16, "added": 1.0488805264311139e-16}
+{"id": 72604, "tool": "admesh", "in_problems": [], "time": 0.02, "problems": [], "ok": true, "lost": 1.0488805264311139e-16, "added": 1.0409041329042855e-16}
+{"id": 72604, "tool": "meshlab", "in_problems": [], "time": 0.13, "problems": [], "ok": true, "lost": 1.0488805264311139e-16, "added": 1.0488805264311139e-16}
+{"id": 72002, "tool": "stlfix", "in_problems": ["1372 non-manifold edges", "67 open edges"], "pick": "A", "time": 14.68, "problems": [], "ok": true, "lost": 1.3131344251328856e-16, "added": 1.3217107581483298e-16}
+{"id": 72869, "tool": "B", "in_problems": ["10 non-manifold edges", "13 open edges"], "time": 0.79, "problems": [], "ok": true, "lost": 8.075136948719807e-17, "added": 8.257756971680837e-17}
+{"id": 72869, "tool": "A", "in_problems": ["10 non-manifold edges", "13 open edges"], "time": 2.32, "problems": [], "ok": true, "lost": 0.0013510311812085676, "added": 0.0006417136565903171}
+{"id": 72869, "tool": "admesh", "in_problems": ["10 non-manifold edges", "13 open edges"], "time": 0.3, "problems": ["10 non-manifold edges", "13 open edges"], "ok": false, "lost": 8.075136948719807e-17, "added": 8.258734102224168e-17}
+{"id": 72869, "tool": "meshlab", "in_problems": ["10 non-manifold edges", "13 open edges"], "time": 0.67, "problems": ["3 non-manifold edges", "12 open edges"], "ok": false, "lost": 8.075136948719807e-17, "added": 8.258734102224168e-17}
+{"id": 72869, "tool": "stlfix", "in_problems": ["10 non-manifold edges", "13 open edges"], "pick": "B", "time": 5.26, "problems": [], "ok": true, "lost": 8.075136948719807e-17, "added": 8.257756971680837e-17}
+{"id": 73336, "tool": "A", "in_problems": ["inside-out normals"], "time": 0.02, "problems": [], "ok": true, "lost": 9.045035897807586e-17, "added": 9.045035897807586e-17}
+{"id": 73336, "tool": "B", "in_problems": ["inside-out normals"], "time": 0.04, "problems": [], "ok": true, "lost": 9.045035897807586e-17, "added": 9.045035897807586e-17}
+{"id": 73336, "tool": "meshlab", "in_problems": ["inside-out normals"], "time": 0.22, "problems": ["inside-out normals"], "ok": false, "lost": 9.062684765121985e-17, "added": 9.062684765121985e-17}
+{"id": 73336, "tool": "stlfix", "in_problems": ["inside-out normals"], "pick": "A", "time": 1.89, "problems": [], "ok": true, "lost": 9.045035897807586e-17, "added": 9.045035897807586e-17}
+{"id": 73336, "tool": "admesh", "in_problems": ["inside-out normals"], "time": 0.01, "problems": ["inside-out normals"], "ok": false, "lost": 9.062684765121985e-17, "added": 9.045036070327791e-17}
+{"id": 73443, "tool": "B", "in_problems": ["33 open edges"], "time": 82.11, "problems": [], "ok": true, "lost": 0.058203256902373296, "added": 0.14091343645252735}
+{"id": 73443, "tool": "A", "in_problems": ["33 open edges"], "time": 82.72, "problems": [], "ok": true, "lost": 0.058203256902373296, "added": 0.1413600328771338}
+{"id": 73443, "tool": "meshlab", "in_problems": ["33 open edges"], "time": 0.14, "problems": ["33 open edges"], "ok": false, "lost": 9.937098734357172e-13, "added": 9.937098734357172e-13}
+{"id": 73443, "tool": "stlfix", "in_problems": ["33 open edges"], "pick": "input", "time": 85.99, "problems": ["33 open edges"], "ok": false, "lost": 9.937098734357172e-13, "added": 9.937098734357172e-13}
+{"id": 73443, "tool": "admesh", "in_problems": ["33 open edges"], "time": 0.06, "problems": ["33 open edges"], "ok": false, "lost": 9.937098734357172e-13, "added": 9.937098734357172e-13}
+{"id": 73445, "tool": "B", "in_problems": ["46 open edges"], "time": 30.79, "problems": [], "ok": true, "lost": 0.05557265479670419, "added": 0.015531252291736648}
+{"id": 73445, "tool": "A", "in_problems": ["46 open edges"], "time": 31.47, "problems": [], "ok": true, "lost": 0.05557265479670419, "added": 0.01582416659410498}
+{"id": 73445, "tool": "meshlab", "in_problems": ["46 open edges"], "time": 0.18, "problems": ["46 open edges"], "ok": false, "lost": 1.190596410928015e-12, "added": 1.190596410928015e-12}
+{"id": 73445, "tool": "admesh", "in_problems": ["46 open edges"], "time": 0.12, "problems": ["46 open edges"], "ok": false, "lost": 1.190596410928015e-12, "added": 1.190596410928015e-12}
+{"id": 740249, "tool": "A", "in_problems": ["27 non-manifold edges", "10 open edges"], "time": 0.18, "problems": [], "ok": true, "lost": 0.015998849516150396, "added": 0.005983773387169184}
+{"id": 73445, "tool": "stlfix", "in_problems": ["46 open edges"], "pick": "input", "time": 36.87, "problems": ["46 open edges"], "ok": false, "lost": 1.190596410928015e-12, "added": 1.190596410928015e-12}
+{"id": 740249, "tool": "meshlab", "in_problems": ["27 non-manifold edges", "10 open edges"], "time": 0.15, "problems": ["4 non-manifold edges", "19 open edges"], "ok": false, "lost": 7.187889226965885e-17, "added": 7.351327648141538e-17}
+{"id": 740249, "tool": "B", "in_problems": ["27 non-manifold edges", "10 open edges"], "time": 0.2, "problems": ["10 open edges"], "ok": false, "lost": 0.015998849516150396, "added": 0.006340766140255098}
+{"id": 740249, "tool": "stlfix", "in_problems": ["27 non-manifold edges", "10 open edges"], "pick": "input", "time": 3.32, "problems": ["27 non-manifold edges", "10 open edges"], "ok": false, "lost": 7.187889226965885e-17, "added": 7.187474970855712e-17}
+{"id": 740249, "tool": "admesh", "in_problems": ["27 non-manifold edges", "10 open edges"], "time": 0.06, "problems": ["27 non-manifold edges", "10 open edges"], "ok": false, "lost": 7.187889226965885e-17, "added": 7.351327648141538e-17}
+{"id": 740253, "tool": "A", "in_problems": ["25 non-manifold edges", "8 open edges"], "time": 0.39, "problems": [], "ok": true, "lost": 0.009937661403803554, "added": 0.0010093870061946531}
+{"id": 740253, "tool": "B", "in_problems": ["25 non-manifold edges", "8 open edges"], "time": 0.44, "problems": [], "ok": true, "lost": 0.010788517518713549, "added": 0.001071807459348718}
+{"id": 740253, "tool": "meshlab", "in_problems": ["25 non-manifold edges", "8 open edges"], "time": 0.21, "problems": ["5 non-manifold edges", "18 open edges"], "ok": false, "lost": 7.604002853467679e-17, "added": 7.672203992602453e-17}
+{"id": 740253, "tool": "admesh", "in_problems": ["25 non-manifold edges", "8 open edges"], "time": 0.06, "problems": ["25 non-manifold edges", "8 open edges"], "ok": false, "lost": 7.604002853467679e-17, "added": 7.672203992602453e-17}
+{"id": 740253, "tool": "stlfix", "in_problems": ["25 non-manifold edges", "8 open edges"], "pick": "B", "time": 3.42, "problems": [], "ok": true, "lost": 0.010788517518713549, "added": 0.001071807459348718}
+{"id": 75057, "tool": "A", "in_problems": ["7 non-manifold edges"], "time": 1.49, "problems": ["5 non-manifold edges"], "ok": false, "lost": 1.0589061933449816e-16, "added": 1.0588028954033025e-16}
+{"id": 75057, "tool": "B", "in_problems": ["7 non-manifold edges"], "time": 1.63, "problems": ["11 open edges"], "ok": false, "lost": 1.0591186125687443e-16, "added": 5.93522307059629e-17}
+{"id": 75057, "tool": "meshlab", "in_problems": ["7 non-manifold edges"], "time": 0.87, "problems": ["13 open edges"], "ok": false, "lost": 5.346103091922361e-17, "added": 5.3352136546163835e-17}
+{"id": 75057, "tool": "admesh", "in_problems": ["7 non-manifold edges"], "time": 0.39, "problems": ["7 non-manifold edges"], "ok": false, "lost": 5.346103091922361e-17, "added": 5.655937588390455e-17}
+{"id": 75057, "tool": "stlfix", "in_problems": ["7 non-manifold edges"], "pick": "B", "time": 7.85, "problems": ["11 open edges"], "ok": false, "lost": 1.0591186125687443e-16, "added": 5.93522307059629e-17}
+{"id": 752189, "tool": "B", "in_problems": ["1 non-manifold edges", "2 open edges"], "time": 0.04, "problems": [], "ok": true, "lost": 4.9168121975075906e-14, "added": 3.354906895244234e-14}
+{"id": 752189, "tool": "meshlab", "in_problems": ["1 non-manifold edges", "2 open edges"], "time": 0.21, "problems": [], "ok": true, "lost": 6.386062389426123e-15, "added": 6.144122876497629e-15}
+{"id": 752189, "tool": "admesh", "in_problems": ["1 non-manifold edges", "2 open edges"], "time": 0.01, "problems": ["1 non-manifold edges", "2 open edges"], "ok": false, "lost": 6.386062389426123e-15, "added": 6.144122876497629e-15}
+{"id": 76899, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 1.58, "problems": [], "ok": true, "lost": 2.2311348705201157e-16, "added": 2.2311348705201157e-16}
+{"id": 76899, "tool": "A", "in_problems": [], "time": 0.02, "problems": [], "ok": true, "lost": 2.2311348705201157e-16, "added": 2.2311348705201157e-16}
+{"id": 76899, "tool": "B", "in_problems": [], "time": 0.02, "problems": [], "ok": true, "lost": 3.5957997838692743e-16, "added": 3.5649310131677657e-16}
+{"id": 76899, "tool": "meshlab", "in_problems": [], "time": 0.09, "problems": [], "ok": true, "lost": 2.2311348705201157e-16, "added": 2.2311348705201157e-16}
+{"id": 76899, "tool": "admesh", "in_problems": [], "time": 0.01, "problems": [], "ok": true, "lost": 2.2311348705201157e-16, "added": 2.400306324658869e-16}
+{"id": 752189, "tool": "A", "in_problems": ["1 non-manifold edges", "2 open edges"], "time": 15.19, "problems": [], "ok": true, "lost": 7.057768507500933e-15, "added": 7.222747992109036e-15}
+{"id": 752189, "tool": "stlfix", "in_problems": ["1 non-manifold edges", "2 open edges"], "pick": "A", "time": 16.57, "problems": [], "ok": true, "lost": 7.057768507500933e-15, "added": 7.222747992109036e-15}
+{"id": 77525, "tool": "A", "in_problems": ["1 non-manifold edges", "1267 open edges"], "time": 1.28, "problems": [], "ok": true, "lost": 0.050360511240410716, "added": 0.04302152336865184}
+{"id": 77525, "tool": "stlfix", "in_problems": ["1 non-manifold edges", "1267 open edges"], "pick": "input", "time": 5.13, "problems": ["1 non-manifold edges", "1266 open edges"], "ok": false, "lost": 1.7072052038053203e-16, "added": 1.7054892476472384e-16}
+{"id": 77525, "tool": "B", "in_problems": ["1 non-manifold edges", "1267 open edges"], "time": 1.89, "problems": [], "ok": true, "lost": 0.1167124768667644, "added": 0.055765245543627884}
+{"id": 77525, "tool": "meshlab", "in_problems": ["1 non-manifold edges", "1267 open edges"], "time": 0.41, "problems": ["1261 open edges"], "ok": false, "lost": 1.7072052038053203e-16, "added": 1.8974984319028458e-16}
+{"id": 77525, "tool": "admesh", "in_problems": ["1 non-manifold edges", "1267 open edges"], "time": 0.07, "problems": ["1 non-manifold edges", "1263 open edges"], "ok": false, "lost": 1.7072052038053203e-16, "added": 1.7022304483859425e-16}
+{"id": 78968, "tool": "A", "in_problems": ["4 non-manifold edges", "40 open edges"], "time": 0.53, "problems": [], "ok": true, "lost": 4.957164189805597e-10, "added": 5.097429136780904e-10}
+{"id": 78968, "tool": "B", "in_problems": ["4 non-manifold edges", "40 open edges"], "time": 0.53, "problems": ["3 non-manifold edges"], "ok": false, "lost": 4.957164199549161e-10, "added": 6.3925916898812e-10}
+{"id": 78968, "tool": "meshlab", "in_problems": ["4 non-manifold edges", "40 open edges"], "time": 0.18, "problems": ["11 open edges"], "ok": false, "lost": 1.1331599151568837e-16, "added": 1.4849804853258456e-16}
+{"id": 78968, "tool": "admesh", "in_problems": ["4 non-manifold edges", "40 open edges"], "time": 0.03, "problems": ["4 non-manifold edges"], "ok": false, "lost": 1.1331599151568837e-16, "added": 1.2430280666201942e-16}
+{"id": 78968, "tool": "stlfix", "in_problems": ["4 non-manifold edges", "40 open edges"], "pick": "A", "time": 4.4, "problems": [], "ok": true, "lost": 4.957164189805597e-10, "added": 5.097429136780904e-10}
+{"id": 79136, "tool": "A", "in_problems": ["464 non-manifold edges", "989 open edges"], "time": 4.63, "problems": ["106 non-manifold edges", "54 open edges"], "ok": false, "lost": 0.2328033649294762, "added": 0.007182264710097539}
+{"id": 79136, "tool": "B", "in_problems": ["464 non-manifold edges", "989 open edges"], "time": 4.35, "problems": ["53 non-manifold edges", "30 open edges"], "ok": false, "lost": 0.07070577953736898, "added": 0.03396202423849729}
+{"id": 79136, "tool": "meshlab", "in_problems": ["464 non-manifold edges", "989 open edges"], "time": 0.5, "problems": ["67 non-manifold edges", "776 open edges"], "ok": false, "lost": 5.6716297862645135e-15, "added": 1.687351684793565e-14}
+{"id": 79136, "tool": "admesh", "in_problems": ["464 non-manifold edges", "989 open edges"], "time": 0.11, "problems": ["536 non-manifold edges", "523 open edges"], "ok": false, "lost": 1.7748355829907572e-14, "added": 1.7670850571298645e-08}
+{"id": 814668, "tool": "A", "in_problems": [], "time": 0.08, "problems": [], "ok": true, "lost": 2.119155675701033e-16, "added": 2.1187144606756925e-16}
+{"id": 814668, "tool": "B", "in_problems": [], "time": 0.07, "problems": [], "ok": true, "lost": 2.119155675701033e-16, "added": 2.368874545129059e-16}
+{"id": 814668, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 2.95, "problems": [], "ok": true, "lost": 2.119155675701033e-16, "added": 2.1187144606756925e-16}
+{"id": 814668, "tool": "meshlab", "in_problems": [], "time": 0.24, "problems": [], "ok": true, "lost": 2.119155675701033e-16, "added": 2.1187144606756925e-16}
+{"id": 814668, "tool": "admesh", "in_problems": [], "time": 0.06, "problems": [], "ok": true, "lost": 2.119155675701033e-16, "added": 2.330430254209303e-16}
+{"id": 79136, "tool": "stlfix", "in_problems": ["464 non-manifold edges", "989 open edges"], "pick": "input", "time": 15.82, "problems": ["464 non-manifold edges", "698 open edges"], "ok": false, "lost": 3.493154644853243e-15, "added": 5.7226456729498925e-15}
+{"id": 82660, "tool": "A", "in_problems": [], "time": 0.01, "problems": [], "ok": true, "lost": 1.7431185396288327e-15, "added": 1.7464440146368906e-15}
+{"id": 82660, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 1.94, "problems": [], "ok": true, "lost": 1.7431185396288327e-15, "added": 1.7464440146368906e-15}
+{"id": 82660, "tool": "B", "in_problems": [], "time": 0.02, "problems": [], "ok": true, "lost": 1.7431185396288327e-15, "added": 1.8957016968015967e-15}
+{"id": 82660, "tool": "meshlab", "in_problems": [], "time": 0.08, "problems": [], "ok": true, "lost": 1.7431185396288327e-15, "added": 1.7464440146368906e-15}
+{"id": 82660, "tool": "admesh", "in_problems": [], "time": 0.01, "problems": [], "ok": true, "lost": 1.7431185396288327e-15, "added": 1.7562349019875444e-15}
+{"id": 834449, "tool": "B", "in_problems": ["3 non-manifold edges"], "time": 0.53, "problems": [], "ok": true, "lost": 5.573818774631861e-09, "added": 4.946267715490952e-09}
+{"id": 834449, "tool": "A", "in_problems": ["3 non-manifold edges"], "time": 0.38, "problems": [], "ok": true, "lost": 5.573818774631861e-09, "added": 5.39989017421692e-09}
+{"id": 834449, "tool": "admesh", "in_problems": ["3 non-manifold edges"], "time": 0.05, "problems": ["3 non-manifold edges"], "ok": false, "lost": 3.54818218995019e-16, "added": 3.545933124020286e-16}
+{"id": 834449, "tool": "meshlab", "in_problems": ["3 non-manifold edges"], "time": 0.37, "problems": ["6 open edges"], "ok": false, "lost": 3.54818218995019e-16, "added": 3.545933124020286e-16}
+{"id": 834449, "tool": "stlfix", "in_problems": ["3 non-manifold edges"], "pick": "B", "time": 4.6, "problems": [], "ok": true, "lost": 5.573818774631861e-09, "added": 4.946267715490952e-09}
+{"id": 83688, "tool": "B", "in_problems": ["1 non-manifold edges", "11 open edges"], "time": 0.14, "problems": [], "ok": true, "lost": 4.018694542116935e-14, "added": 5.539584991090014e-14}
+{"id": 83688, "tool": "A", "in_problems": ["1 non-manifold edges", "11 open edges"], "time": 2.39, "problems": [], "ok": true, "lost": 3.4821240553166926e-09, "added": 3.445623451588788e-09}
+{"id": 83688, "tool": "meshlab", "in_problems": ["1 non-manifold edges", "11 open edges"], "time": 0.36, "problems": ["6 open edges"], "ok": false, "lost": 4.018694542116935e-14, "added": 4.092128949730442e-14}
+{"id": 83688, "tool": "admesh", "in_problems": ["1 non-manifold edges", "11 open edges"], "time": 0.05, "problems": ["1 non-manifold edges", "3 open edges"], "ok": false, "lost": 4.018694542116935e-14, "added": 4.092128949730442e-14}
+{"id": 83688, "tool": "stlfix", "in_problems": ["1 non-manifold edges", "11 open edges"], "pick": "B", "time": 5.34, "problems": [], "ok": true, "lost": 4.018694542116935e-14, "added": 5.539584991090014e-14}
+{"id": 84021, "tool": "A", "in_problems": ["3 non-manifold edges"], "time": 0.17, "problems": [], "ok": true, "lost": 8.890350513558585e-05, "added": 8.136907564142455e-10}
+{"id": 84021, "tool": "B", "in_problems": ["3 non-manifold edges"], "time": 0.21, "problems": [], "ok": true, "lost": 8.890350513558585e-05, "added": 7.977723663871471e-10}
+{"id": 84021, "tool": "meshlab", "in_problems": ["3 non-manifold edges"], "time": 0.29, "problems": ["10 open edges"], "ok": false, "lost": 2.0217863114733963e-16, "added": 2.0207998335852117e-16}
+{"id": 84021, "tool": "stlfix", "in_problems": ["3 non-manifold edges"], "pick": "A", "time": 3.04, "problems": [], "ok": true, "lost": 8.890350513558585e-05, "added": 8.136907564142455e-10}
+{"id": 84021, "tool": "admesh", "in_problems": ["3 non-manifold edges"], "time": 0.02, "problems": ["3 non-manifold edges"], "ok": false, "lost": 2.020829427921857e-16, "added": 2.0208096983640935e-16}
+{"id": 84130, "tool": "A", "in_problems": ["19 open edges"], "time": 13.99, "problems": [], "ok": true, "lost": 0.018013531444408395, "added": 0.009847372383136863}
+{"id": 84130, "tool": "B", "in_problems": ["19 open edges"], "time": 14.09, "problems": [], "ok": true, "lost": 0.018013531444408395, "added": 0.010368158656437707}
+{"id": 84130, "tool": "meshlab", "in_problems": ["19 open edges"], "time": 0.23, "problems": ["19 open edges"], "ok": false, "lost": 4.466460697710377e-14, "added": 4.4710608826160606e-14}
+{"id": 84130, "tool": "admesh", "in_problems": ["19 open edges"], "time": 0.2, "problems": ["19 open edges"], "ok": false, "lost": 4.466460697710377e-14, "added": 4.438795072754427e-14}
+{"id": 84130, "tool": "stlfix", "in_problems": ["19 open edges"], "pick": "input", "time": 19.37, "problems": ["19 open edges"], "ok": false, "lost": 4.466460697710377e-14, "added": 4.4710608826160606e-14}
+{"id": 84625, "tool": "B", "in_problems": ["2 non-manifold edges", "4 open edges"], "time": 0.22, "problems": [], "ok": true, "lost": 6.280230250652996e-16, "added": 1.0153457043086287e-15}
+{"id": 84625, "tool": "A", "in_problems": ["2 non-manifold edges", "4 open edges"], "time": 1.89, "problems": [], "ok": true, "lost": 1.4730406780246017e-14, "added": 8.049565259913971e-16}
+{"id": 84625, "tool": "meshlab", "in_problems": ["2 non-manifold edges", "4 open edges"], "time": 0.34, "problems": [], "ok": true, "lost": 6.280230250652996e-16, "added": 5.031755573807717e-16}
+{"id": 84625, "tool": "admesh", "in_problems": ["2 non-manifold edges", "4 open edges"], "time": 0.05, "problems": ["2 non-manifold edges", "4 open edges"], "ok": false, "lost": 6.280230250652996e-16, "added": 6.113570178593207e-16}
+{"id": 84625, "tool": "stlfix", "in_problems": ["2 non-manifold edges", "4 open edges"], "pick": "B", "time": 5.17, "problems": [], "ok": true, "lost": 6.280230250652996e-16, "added": 1.0153457043086287e-15}
+{"id": 84626, "tool": "A", "in_problems": [], "time": 0.17, "problems": [], "ok": true, "lost": 3.6625020083359474e-16, "added": 3.6624669293769996e-16}
+{"id": 84626, "tool": "B", "in_problems": [], "time": 0.18, "problems": [], "ok": true, "lost": 3.6625020083359474e-16, "added": 2.721204990657983e-16}
+{"id": 84626, "tool": "meshlab", "in_problems": [], "time": 0.33, "problems": [], "ok": true, "lost": 3.6625020083359474e-16, "added": 3.6624669293769996e-16}
+{"id": 84626, "tool": "admesh", "in_problems": [], "time": 0.05, "problems": [], "ok": true, "lost": 3.6625020083359474e-16, "added": 3.628319393126042e-16}
+{"id": 84626, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 3.6, "problems": [], "ok": true, "lost": 3.6625020083359474e-16, "added": 3.6624669293769996e-16}
+{"id": 84756, "tool": "A", "in_problems": ["6 non-manifold edges", "364 open edges"], "time": 27.95, "problems": [], "ok": true, "lost": 0.020078859844125586, "added": 0.032684118586559015}
+{"id": 84756, "tool": "B", "in_problems": ["6 non-manifold edges", "364 open edges"], "time": 29.81, "problems": [], "ok": true, "lost": 0.02793324397185332, "added": 0.04014992651417818}
+{"id": 84756, "tool": "meshlab", "in_problems": ["6 non-manifold edges", "364 open edges"], "time": 0.91, "problems": ["2 non-manifold edges", "136 open edges"], "ok": false, "lost": 3.780741812854143e-15, "added": 2.455659561910085e-15}
+{"id": 84756, "tool": "admesh", "in_problems": ["6 non-manifold edges", "364 open edges"], "time": 0.6, "problems": ["9 non-manifold edges", "12 open edges"], "ok": false, "lost": 3.780741812854143e-15, "added": 4.380560666005258e-15}
+{"id": 84929, "tool": "A", "in_problems": ["3 open edges"], "time": 0.05, "problems": [], "ok": true, "lost": 3.179080876539268e-15, "added": 3.582405838673651e-15}
+{"id": 84929, "tool": "stlfix", "in_problems": ["3 open edges"], "pick": "A", "time": 2.35, "problems": [], "ok": true, "lost": 3.179080876539268e-15, "added": 3.582405838673651e-15}
+{"id": 84929, "tool": "B", "in_problems": ["3 open edges"], "time": 0.05, "problems": [], "ok": true, "lost": 3.179080876539268e-15, "added": 3.670601738213695e-15}
+{"id": 84756, "tool": "stlfix", "in_problems": ["6 non-manifold edges", "364 open edges"], "pick": "input", "time": 37.14, "problems": ["6 non-manifold edges", "188 open edges"], "ok": false, "lost": 3.780741812854143e-15, "added": 3.7717113415489675e-15}
+{"id": 84929, "tool": "meshlab", "in_problems": ["3 open edges"], "time": 0.18, "problems": ["3 open edges"], "ok": false, "lost": 3.524257617202618e-15, "added": 3.524257617202618e-15}
+{"id": 84929, "tool": "admesh", "in_problems": ["3 open edges"], "time": 0.01, "problems": ["3 open edges"], "ok": false, "lost": 3.524257617202618e-15, "added": 3.524257617202618e-15}
+{"id": 85245, "tool": "B", "in_problems": ["55 non-manifold edges", "12 open edges"], "time": 10.32, "problems": ["44 non-manifold edges"], "ok": false, "lost": 0.0012449971172876085, "added": 0.001192034438399821}
+{"id": 85245, "tool": "A", "in_problems": ["55 non-manifold edges", "12 open edges"], "time": 12.76, "problems": ["44 non-manifold edges"], "ok": false, "lost": 0.0012396784587746024, "added": 0.0012448005309808924}
+{"id": 85245, "tool": "meshlab", "in_problems": ["55 non-manifold edges", "12 open edges"], "time": 1.15, "problems": ["9 non-manifold edges", "176 open edges"], "ok": false, "lost": 9.635233321307785e-16, "added": 9.607017475328203e-16}
+{"id": 85245, "tool": "admesh", "in_problems": ["55 non-manifold edges", "12 open edges"], "time": 0.29, "problems": ["55 non-manifold edges"], "ok": false, "lost": 9.635233321307785e-16, "added": 9.606972843628498e-16}
+{"id": 85245, "tool": "stlfix", "in_problems": ["55 non-manifold edges", "12 open edges"], "pick": "A", "time": 17.23, "problems": ["44 non-manifold edges"], "ok": false, "lost": 0.0012396784587746024, "added": 0.0012448005309808924}
+{"id": 85887, "tool": "A", "in_problems": ["1 non-manifold edges"], "time": 0.64, "problems": [], "ok": true, "lost": 8.674811719185346e-16, "added": 8.50133317500106e-16}
+{"id": 85887, "tool": "meshlab", "in_problems": ["1 non-manifold edges"], "time": 0.54, "problems": ["1 non-manifold edges"], "ok": false, "lost": 3.597022131764087e-16, "added": 4.626781330214513e-16}
+{"id": 85887, "tool": "B", "in_problems": ["1 non-manifold edges"], "time": 0.73, "problems": [], "ok": true, "lost": 1.4028075716575554e-14, "added": 2.3610381378072286e-16}
+{"id": 85887, "tool": "admesh", "in_problems": ["1 non-manifold edges"], "time": 0.17, "problems": ["1 non-manifold edges"], "ok": false, "lost": 3.597022131764087e-16, "added": 4.1480397123490794e-16}
+{"id": 85887, "tool": "stlfix", "in_problems": ["1 non-manifold edges"], "pick": "A", "time": 7.27, "problems": [], "ok": true, "lost": 8.674811719185346e-16, "added": 8.50133317500106e-16}
+{"id": 860049, "tool": "A", "in_problems": ["3 non-manifold edges"], "time": 0.6, "problems": ["overlapping parts"], "ok": false, "lost": 0.008281534550333735, "added": 0.0029145656924530637}
+{"id": 860049, "tool": "B", "in_problems": ["3 non-manifold edges"], "time": 0.3, "problems": [], "ok": true, "lost": 8.618150720296366e-16, "added": 2.511146904680166e-16}
+{"id": 860049, "tool": "admesh", "in_problems": ["3 non-manifold edges"], "time": 0.09, "problems": ["3 non-manifold edges"], "ok": false, "lost": 4.698884760345387e-16, "added": 4.075974231987833e-16}
+{"id": 860049, "tool": "stlfix", "in_problems": ["3 non-manifold edges"], "pick": "B", "time": 7.03, "problems": [], "ok": true, "lost": 8.618150720296366e-16, "added": 2.511146904680166e-16}
+{"id": 860049, "tool": "meshlab", "in_problems": ["3 non-manifold edges"], "time": 0.47, "problems": [], "ok": true, "lost": 4.698884760345387e-16, "added": 4.075974231987833e-16}
+{"id": 87657, "tool": "B", "in_problems": ["6 non-manifold edges"], "time": 0.26, "problems": [], "ok": true, "lost": 1.1726094495923786e-15, "added": 2.6280501533954228e-15}
+{"id": 87657, "tool": "meshlab", "in_problems": ["6 non-manifold edges"], "time": 0.29, "problems": [], "ok": true, "lost": 3.683878156187937e-15, "added": 5.853006237900084e-15}
+{"id": 87657, "tool": "A", "in_problems": ["6 non-manifold edges"], "time": 3.75, "problems": [], "ok": true, "lost": 0.04662714115944513, "added": 2.530522134015071e-14}
+{"id": 87657, "tool": "admesh", "in_problems": ["6 non-manifold edges"], "time": 0.05, "problems": ["6 non-manifold edges"], "ok": false, "lost": 3.683878156187937e-15, "added": 5.853006237900084e-15}
+{"id": 87657, "tool": "stlfix", "in_problems": ["6 non-manifold edges"], "pick": "B", "time": 5.83, "problems": [], "ok": true, "lost": 1.1726094495923786e-15, "added": 2.6280501533954228e-15}
+{"id": 88379, "tool": "A", "in_problems": ["1 non-manifold edges", "57 open edges"], "time": 0.72, "problems": ["3 open edges"], "ok": false, "lost": 6.644223477972095e-10, "added": 3.959737379261768e-10}
+{"id": 88379, "tool": "B", "in_problems": ["1 non-manifold edges", "57 open edges"], "time": 0.56, "problems": [], "ok": true, "lost": 7.072760099643015e-10, "added": 1.1895688496708387e-09}
+{"id": 88379, "tool": "meshlab", "in_problems": ["1 non-manifold edges", "57 open edges"], "time": 0.49, "problems": ["52 open edges"], "ok": false, "lost": 3.5165524381130317e-16, "added": 3.5473382933208695e-16}
+{"id": 88379, "tool": "admesh", "in_problems": ["1 non-manifold edges", "57 open edges"], "time": 0.25, "problems": ["1 non-manifold edges", "49 open edges"], "ok": false, "lost": 3.5165524381130317e-16, "added": 3.5314961814663485e-16}
+{"id": 88379, "tool": "stlfix", "in_problems": ["1 non-manifold edges", "57 open edges"], "pick": "A", "time": 5.89, "problems": ["3 open edges"], "ok": false, "lost": 6.644223477972095e-10, "added": 3.959737379261768e-10}
+{"id": 901214, "tool": "B", "in_problems": ["2012 open edges"], "time": 8.31, "problems": [], "ok": true, "lost": 0.10622695844611664, "added": 0.09245906630469299}
+{"id": 901214, "tool": "A", "in_problems": ["2012 open edges"], "time": 8.76, "problems": ["overlapping parts"], "ok": false, "lost": 0.047729856877619145, "added": 0.04781596025632485}
+{"id": 901214, "tool": "meshlab", "in_problems": ["2012 open edges"], "time": 0.3, "problems": ["1 non-manifold edges", "1150 open edges"], "ok": false, "lost": 5.032998209565649e-16, "added": 6.793434712293286e-16}
+{"id": 901214, "tool": "admesh", "in_problems": ["2012 open edges"], "time": 0.1, "problems": ["55 non-manifold edges", "14 open edges"], "ok": false, "lost": 4.839869707510837e-16, "added": 0.07688963888709813}
+{"id": 91138, "tool": "A", "in_problems": ["48 non-manifold edges"], "time": 0.05, "problems": ["61 non-manifold edges"], "ok": false, "lost": 8.611477278790659e-15, "added": 9.055024689112117e-15}
+{"id": 91138, "tool": "B", "in_problems": ["48 non-manifold edges"], "time": 0.04, "problems": ["48 non-manifold edges"], "ok": false, "lost": 7.833457241329086e-15, "added": 8.155168116598996e-15}
+{"id": 91138, "tool": "stlfix", "in_problems": ["48 non-manifold edges"], "pick": "input", "time": 2.12, "problems": ["48 non-manifold edges"], "ok": false, "lost": 8.611477278790659e-15, "added": 8.546997683702809e-15}
+{"id": 91138, "tool": "admesh", "in_problems": ["48 non-manifold edges"], "time": 0.01, "problems": ["48 non-manifold edges"], "ok": false, "lost": 8.611477278790659e-15, "added": 8.674874739302242e-15}
+{"id": 91138, "tool": "meshlab", "in_problems": ["48 non-manifold edges"], "time": 0.14, "problems": ["4 non-manifold edges", "19 open edges"], "ok": false, "lost": 1.3876226909138702e-14, "added": 8.89802979412916e-15}
+{"id": 901214, "tool": "stlfix", "in_problems": ["2012 open edges"], "pick": "input", "time": 18.78, "problems": ["2 non-manifold edges", "1719 open edges"], "ok": false, "lost": 5.032998209565649e-16, "added": 5.049144686345214e-16}
+{"id": 91945, "tool": "A", "in_problems": ["720 open edges"], "time": 0.56, "problems": ["160 open edges"], "ok": false, "lost": 0.01900371167203646, "added": 0.0026681874369581934}
+{"id": 91945, "tool": "B", "in_problems": ["720 open edges"], "time": 0.65, "problems": ["160 open edges"], "ok": false, "lost": 0.01900371167203646, "added": 0.002715922237292475}
+{"id": 91945, "tool": "meshlab", "in_problems": ["720 open edges"], "time": 0.23, "problems": ["720 open edges"], "ok": false, "lost": 2.0476839563563918e-15, "added": 2.0476839563563918e-15}
+{"id": 91945, "tool": "stlfix", "in_problems": ["720 open edges"], "pick": "input", "time": 3.3, "problems": ["720 open edges"], "ok": false, "lost": 2.0476839563563918e-15, "added": 2.0476839563563918e-15}
+{"id": 91945, "tool": "admesh", "in_problems": ["720 open edges"], "time": 0.07, "problems": ["720 open edges"], "ok": false, "lost": 2.0476839563563918e-15, "added": 2.0476839563563918e-15}
+{"id": 91946, "tool": "A", "in_problems": ["304 open edges"], "time": 0.4, "problems": ["64 open edges"], "ok": false, "lost": 1.3127241391103495e-14, "added": 3.428982942736743e-15}
+{"id": 91946, "tool": "B", "in_problems": ["304 open edges"], "time": 0.13, "problems": ["64 open edges"], "ok": false, "lost": 1.3127241391103495e-14, "added": 3.245117820133073e-15}
+{"id": 91946, "tool": "stlfix", "in_problems": ["304 open edges"], "pick": "A", "time": 2.39, "problems": ["64 open edges"], "ok": false, "lost": 1.3127241391103495e-14, "added": 3.428982942736743e-15}
+{"id": 91946, "tool": "meshlab", "in_problems": ["304 open edges"], "time": 0.13, "problems": ["304 open edges"], "ok": false, "lost": 2.949906627377135e-15, "added": 2.949906627377135e-15}
+{"id": 91946, "tool": "admesh", "in_problems": ["304 open edges"], "time": 0.04, "problems": ["304 open edges"], "ok": false, "lost": 2.949906627377135e-15, "added": 2.949906627377135e-15}
+{"id": 93075, "tool": "A", "in_problems": [], "time": 0.02, "problems": [], "ok": true, "lost": 8.387981401575748e-17, "added": 8.387981401575748e-17}
+{"id": 93075, "tool": "B", "in_problems": [], "time": 0.04, "problems": [], "ok": true, "lost": 8.387981401575748e-17, "added": 8.541902155689476e-17}
+{"id": 93075, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 1.66, "problems": [], "ok": true, "lost": 8.387981401575748e-17, "added": 8.387981401575748e-17}
+{"id": 93075, "tool": "admesh", "in_problems": [], "time": 0.01, "problems": [], "ok": true, "lost": 8.387981401575748e-17, "added": 8.388626144452196e-17}
+{"id": 93075, "tool": "meshlab", "in_problems": [], "time": 0.14, "problems": [], "ok": true, "lost": 8.387981401575748e-17, "added": 8.387981401575748e-17}
+{"id": 93237, "tool": "B", "in_problems": ["149 non-manifold edges"], "time": 0.37, "problems": ["109 non-manifold edges"], "ok": false, "lost": 1.6112064134133424e-16, "added": 1.1391066122044936e-16}
+{"id": 93237, "tool": "A", "in_problems": ["149 non-manifold edges"], "time": 0.83, "problems": ["82 non-manifold edges"], "ok": false, "lost": 0.21759289846117794, "added": 0.04065040486793432}
+{"id": 93237, "tool": "meshlab", "in_problems": ["149 non-manifold edges"], "time": 0.31, "problems": ["6 non-manifold edges", "26 open edges"], "ok": false, "lost": 1.6112064134133424e-16, "added": 0.005368273528032244}
+{"id": 93237, "tool": "admesh", "in_problems": ["149 non-manifold edges"], "time": 0.07, "problems": ["149 non-manifold edges"], "ok": false, "lost": 1.6576436050442195e-16, "added": 1.1136958332237748e-16}
+{"id": 93237, "tool": "stlfix", "in_problems": ["149 non-manifold edges"], "pick": "B", "time": 3.85, "problems": ["109 non-manifold edges"], "ok": false, "lost": 1.6112064134133424e-16, "added": 1.1391066122044936e-16}
+{"id": 94737, "tool": "A", "in_problems": ["36 non-manifold edges", "18 open edges"], "time": 0.04, "problems": [], "ok": true, "lost": 0.00398404943120895, "added": 0.015297157294887469}
+{"id": 94737, "tool": "B", "in_problems": ["36 non-manifold edges", "18 open edges"], "time": 0.11, "problems": [], "ok": true, "lost": 0.00398404943120895, "added": 0.01503866546171255}
+{"id": 94737, "tool": "meshlab", "in_problems": ["36 non-manifold edges", "18 open edges"], "time": 0.12, "problems": ["2 non-manifold edges", "2 open edges"], "ok": false, "lost": 1.4656295225138064e-16, "added": 1.4545300704256247e-16}
+{"id": 94737, "tool": "stlfix", "in_problems": ["36 non-manifold edges", "18 open edges"], "pick": "input", "time": 2.43, "problems": ["36 non-manifold edges", "18 open edges"], "ok": false, "lost": 1.4656295225138064e-16, "added": 1.4655480316238282e-16}
+{"id": 94737, "tool": "admesh", "in_problems": ["36 non-manifold edges", "18 open edges"], "time": 0.01, "problems": ["39 non-manifold edges", "13 open edges"], "ok": false, "lost": 1.4656295225138064e-16, "added": 1.474292687258497e-16}
+{"id": 95099, "tool": "B", "in_problems": ["279 non-manifold edges", "192 open edges"], "time": 2.17, "problems": ["8 non-manifold edges", "192 open edges"], "ok": false, "lost": 5.376644885490983e-09, "added": 0.0014298064602149818}
+{"id": 95099, "tool": "A", "in_problems": ["279 non-manifold edges", "192 open edges"], "time": 2.06, "problems": ["overlapping parts"], "ok": false, "lost": 0.025686333602371686, "added": 0.0014303599078826555}
+{"id": 95099, "tool": "meshlab", "in_problems": ["279 non-manifold edges", "192 open edges"], "time": 0.5, "problems": ["13 non-manifold edges", "64 open edges"], "ok": false, "lost": 1.7518152558633489e-16, "added": 0.004912135060128385}
+{"id": 95099, "tool": "admesh", "in_problems": ["279 non-manifold edges", "192 open edges"], "time": 0.2, "problems": ["330 non-manifold edges"], "ok": false, "lost": 1.7518152558633489e-16, "added": 0.00550164477739578}
+{"id": 95099, "tool": "stlfix", "in_problems": ["279 non-manifold edges", "192 open edges"], "pick": "B", "time": 7.51, "problems": ["8 non-manifold edges", "192 open edges"], "ok": false, "lost": 5.376644885490983e-09, "added": 0.0014298064602149818}
+{"id": 98923, "tool": "A", "in_problems": ["21 non-manifold edges", "28 open edges"], "time": 19.2, "problems": [], "ok": true, "lost": 1.6714094590451534e-09, "added": 1.6714094590421408e-09}
+{"id": 98923, "tool": "B", "in_problems": ["21 non-manifold edges", "28 open edges"], "time": 18.92, "problems": [], "ok": true, "lost": 1.6714094590801599e-09, "added": 1.6714094590422086e-09}
+{"id": 98923, "tool": "meshlab", "in_problems": ["21 non-manifold edges", "28 open edges"], "time": 0.6, "problems": ["1 non-manifold edges", "17 open edges"], "ok": false, "lost": 2.013463751572299e-16, "added": 1.7211893138644877e-16}
+{"id": 98923, "tool": "admesh", "in_problems": ["21 non-manifold edges", "28 open edges"], "time": 0.35, "problems": ["21 non-manifold edges", "28 open edges"], "ok": false, "lost": 2.013463751572299e-16, "added": 1.890595716748689e-16}
+{"id": 99895, "tool": "A", "in_problems": [], "time": 0.31, "problems": [], "ok": true, "lost": 1.2063533152183732e-14, "added": 1.2063533152183732e-14}
+{"id": 99895, "tool": "stlfix", "in_problems": [], "pick": "A", "time": 4.73, "problems": [], "ok": true, "lost": 1.2063533152183732e-14, "added": 1.2063533152183732e-14}
+{"id": 99895, "tool": "B", "in_problems": [], "time": 0.36, "problems": [], "ok": true, "lost": 1.2063533152183732e-14, "added": 1.7290601200960486e-14}
+{"id": 99895, "tool": "admesh", "in_problems": [], "time": 0.31, "problems": [], "ok": true, "lost": 1.2063533152183732e-14, "added": 2.005479407973646e-14}
+{"id": 99895, "tool": "meshlab", "in_problems": [], "time": 0.57, "problems": [], "ok": true, "lost": 1.2063533152183732e-14, "added": 1.2063533152183732e-14}
+{"id": 98923, "tool": "stlfix", "in_problems": ["21 non-manifold edges", "28 open edges"], "pick": "B", "time": 39.72, "problems": [], "ok": true, "lost": 1.6714094590801599e-09, "added": 1.6714094590422086e-09}

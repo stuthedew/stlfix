@@ -12,8 +12,6 @@ import trimesh
 
 
 def draw(ax, m, title):
-    if len(m.faces) > 60000:
-        m = m.simplify_quadric_decimation(face_count=60000) if hasattr(m, "simplify_quadric_decimation") else m
     tri = m.triangles
     light = np.array([0.4, 0.3, 0.85]); light /= np.linalg.norm(light)
     shade = 0.35 + 0.65 * np.clip(np.abs(m.face_normals @ light), 0, 1)

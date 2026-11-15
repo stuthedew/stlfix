@@ -28,7 +28,8 @@ import trimesh
 warnings.filterwarnings("ignore")
 
 TIME_LIMIT = 90        # seconds per strategy
-SHAPE_TOL = 0.01       # max allowed surface deviation, fraction of bounding-box diagonal (99th pct)
+SHAPE_TOL = 0.005      # max surface deviation the tool accepts, fraction of bbox diagonal (99th pct);
+                       # half the benchmark's 1% so random-sampling noise cannot push a result over
 
 
 # ---------------------------------------------------------------- basics
