@@ -63,10 +63,30 @@ The user is not a mesh-processing developer; output must be one plain line per f
   the first hard cases; dropped from the dev run, may revisit only for models A and B both fail.
 - MeshFix can take 100-200 s on some models; v2 needs a per-strategy time budget.
 
+## Dev results (150 models, bench/results/dev_v2.jsonl, internal tolerance was 1% for this run)
+| method | fixed | shape damaged | median time |
+|---|---|---|---|
+| stlfix v2 | 57.3% | 1.3% | 3.3 s |
+| A only (MeshFix per group) | 54.0% | 30.7% | 0.4 s |
+| B only (close + union) | 50.7% | 16.7% | 0.3 s |
+| MeshLab filters | 22.0% | 3.3% | 0.2 s |
+| admesh | 16.0% | 2.7% | 0.05 s |
+24/150 have no problems after basic cleanup (merge duplicate vertices / drop duplicate faces).
+stlfix kept the input in 31/150 (every repair damaged the shape). Of stlfix's valid outputs, 80/87
+deviate <0.1%; the 2 "damaged" were borderline (1.08%, 1.4%) -> internal tolerance tightened to 0.5%.
+
+What the failures look like (rendered with bench/render.py):
+- 41082 factory: many overlapping open pieces that only together enclose a solid; MeshFix keeps one
+  chimney (6% of area). 209796 car kit: MeshFix caps the open cockpit. Self-check rejects both.
+- fTetWild (pytetwild, strategy C) keeps the shape within ~0.01% on these, but its tet-boundary surface
+  has many non-manifold edges; post-processing with A or B either destroys it or leaves them. Also
+  30-75 s on larger models and pytetwild only ships macOS 15 arm64 wheels. Dropped.
+- Possible next idea for the soup/open-pieces class: winding-number solid extraction with a mesh
+  arrangement (e.g. libigl copyleft/cgal remesh_self_intersections + extract by winding number), if
+  available in Python bindings; not investigated.
+
 ## Status / next steps
 1. DONE: v2 pipeline in `stlfix.py` with time limits, cavity-safe orientation, winding-number
    self-check; 9 synthetic tests pass; collet screw fixed in ~4 s with all vertices unchanged.
-2. IN PROGRESS: dev run (150 models: stlfix, A, B, meshlab, admesh). Results -> bench/results/.
-3. Then evaluate once on the held-out test split; record numbers here and in README.
-4. Ideas not yet tried: fTetWild only as a last resort when A and B both fail; render failures to
-   eyeball them.
+2. DONE: dev run, see above.
+3. IN PROGRESS: held-out test run (1,068 models: stlfix, meshlab, admesh) -> bench/results/test_v2.jsonl.
