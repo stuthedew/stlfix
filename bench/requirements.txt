@@ -1,0 +1,10 @@
+pymeshfix>=0.18
+trimesh>=4
+numpy
+scipy
+rtree
+manifold3d>=3
+thingi10k
+pymeshlab
+pytetwild
+pyvista

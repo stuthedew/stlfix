@@ -1,0 +1,14 @@
+__pycache__/
+*.egg-info/
+build/
+dist/
+.venv/
+.pytest_cache/
+# meshes and datasets stay out of git
+*.stl
+*.STL
+*.obj
+*.ply
+*.npz
+thingi_cache/
+bench/work/

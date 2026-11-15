@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stlfix"
+version = "1.0.0"
+description = "One-command STL repair (non-manifold edges, holes, normals) using MeshFix"
+requires-python = ">=3.10"
+dependencies = ["pymeshfix>=0.18", "trimesh>=4", "numpy", "scipy"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.scripts]
+stlfix = "stlfix:main"
+
+[tool.setuptools]
+py-modules = ["stlfix"]
