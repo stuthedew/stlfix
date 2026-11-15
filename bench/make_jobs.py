@@ -11,5 +11,6 @@ thingi10k.init(variant="npz", cache_dir=cache)
 ids = set(json.load(open(os.path.join(os.path.dirname(__file__), f"{split}_ids.json"))))
 for x in thingi10k.dataset(edge_manifold=False, num_facets=(None, 100000)):
     if int(x["file_id"]) in ids:
+        npz = os.path.join(os.path.abspath(cache), "thingi10k_npz_extracted", "npz", f'{x["file_id"]}.npz')
         for m in methods:
-            print(x["file_id"], m, os.path.abspath(x["file_path"]))
+            print(x["file_id"], m, npz)

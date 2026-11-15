@@ -65,6 +65,23 @@ def test_edge_touch_keeps_both_parts(tmp_path):
     assert stlfix.problems(m)
 
 
-def test_clean_file_unchanged(tmp_path):
-    m = run(tmp_path, box())
-    assert stlfix.problems(m) == [] and m.volume == pytest.approx(1.0)
+def test_clean_file_not_rewritten(tmp_path):
+    src = tmp_path / "in.stl"; box().export(src)
+    r = subprocess.run([sys.executable, os.path.join(os.path.dirname(HERE), "stlfix.py"), str(src)], capture_output=True, text=True)
+    assert "no problems found" in r.stdout and not (tmp_path / "in_fixed.stl").exists()
+
+
+def test_overlapping_bodies_merged(tmp_path):  # two overlapping cubes -> one solid, union volume
+    a = box(); c = box(); c.apply_translation([0.5, 0, 0])
+    m = run(tmp_path, trimesh.util.concatenate([a, c]))
+    assert stlfix.problems(m) == [] and m.volume == pytest.approx(1.5, rel=1e-3)
+
+
+def test_hollow_part_keeps_cavity(tmp_path):  # cube with an internal cavity + a stray fin to force a repair
+    outer = box(extents=[2, 2, 2]); inner = box(extents=[1, 1, 1]); inner.invert()
+    hollow = trimesh.util.concatenate([outer, inner])
+    v = np.vstack([hollow.vertices, [[0, 0, 3]]]); e = outer.edges_unique[0]
+    broken = trimesh.Trimesh(v, np.vstack([hollow.faces, [[e[0], e[1], len(v) - 1]]]), process=False)
+    m = run(tmp_path, broken)
+    assert stlfix.problems(m) == []
+    assert m.volume == pytest.approx(7.0, rel=1e-3)   # 8 - 1: cavity not filled

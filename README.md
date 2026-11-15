@@ -37,7 +37,12 @@ Parts that touch only along an edge or at a single point are non-manifold by geo
 
 ## How it works
 
-MeshFix ([pymeshfix](https://pypi.org/project/pymeshfix); Attene, *The Visual Computer* 2010, doi:10.1007/s00371-010-0416-3) does the repair; [trimesh](https://trimesh.org) handles I/O and checks. stlfix adds: pre-cleaning, per-part repair so multi-part models keep all parts (MeshFix alone keeps only the largest), a guard against MeshFix deleting geometry, normal fixing, and post-write verification.
+Two repair strategies run in parallel with a time limit, and the best verified result is written:
+
+- **A**: MeshFix ([pymeshfix](https://pypi.org/project/pymeshfix); Attene, *The Visual Computer* 2010, doi:10.1007/s00371-010-0416-3) on each group of touching pieces. Already-clean pieces are left untouched.
+- **B**: close each body with MeshFix, then merge overlapping bodies with a boolean union ([manifold3d](https://github.com/elalish/manifold)). Internal cavities are kept.
+
+Each result is checked against the input: it must be a closed solid, and the surface must not move by more than 1% of the model's size. Which side of each input surface is solid is decided with the generalized winding number (Jacobson et al., SIGGRAPH 2013, via [libigl](https://libigl.github.io)), so removing internal walls and stray fins counts as repair, while filling a cavity or deleting a part counts as damage. A result that changes the shape is never reported as fixed. The output is re-read from disk before the result line is printed.
 
 ## Development
 
