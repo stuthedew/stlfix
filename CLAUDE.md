@@ -97,4 +97,9 @@ What the failures look like (rendered with bench/render.py):
      cp bench/results/test_v2_partial.jsonl test.jsonl
      THINGI_DIR=thingi_cache JOBS=3 bench/run.sh test test.jsonl stlfix meshlab admesh
    Then copy to bench/results/test_v2.jsonl and put the final table in README + here.
+3b. "Never change good meshes" hardening (branch fix/never-change-good-meshes): per-body lost-part check
+   (`lost_bodies`), winding / inside-out-body / self-intersection detection in `problems()`, untouched
+   fallback (nothing written when no repair is shape-safe), --inplace backup, surfaced strategy errors and
+   timeouts, non-zero exit status when a file is not fully fixed. The v2 benchmark numbers above predate
+   this; re-run dev before comparing.
 4. Optional: a GUI / drag-and-drop wrapper (e.g. macOS Automator Quick Action calling `stlfix`).

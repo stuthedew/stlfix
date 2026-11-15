@@ -7,7 +7,7 @@ name = "stlfix"
 version = "2.0.0"
 description = "One-command STL repair (non-manifold edges, holes, normals) using MeshFix and manifold3d"
 requires-python = ">=3.10"
-dependencies = ["pymeshfix>=0.18", "trimesh>=4", "manifold3d>=3", "libigl>=2.5", "numpy", "scipy"]
+dependencies = ["pymeshfix>=0.18", "trimesh>=4", "manifold3d>=3", "libigl>=2.5", "numpy", "scipy", "networkx"]
 
 [project.optional-dependencies]
 dev = ["pytest"]
