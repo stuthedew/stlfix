@@ -14,6 +14,11 @@ The user is not a mesh-processing developer; output must be one plain line per f
 - PrusaSlicer's Netfabb repair is Windows-only; its `--repair` CLI flag is unreliable per forum reports.
 - Formware's page uploads to their server; no client-side code. Paid API from 100 EUR/month.
 
+## Repo / license
+- Public repo github.com/stuthedew/stlfix, branch main. No LICENSE file: the user has not chosen one.
+  pymeshfix is AGPL-3.0; manifold3d Apache-2.0; libigl MPL-2.0; trimesh MIT. Don't add a license
+  without asking. Keep meshes/datasets out of git (.gitignore); never commit the user's own STLs.
+
 ## Layout
 - `stlfix.py` — the CLI, single module. v2 pipeline: clean -> detect problems -> run strategies A and B
   in parallel child processes (90 s limit each) -> self-check each result + the untouched input ->

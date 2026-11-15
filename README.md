@@ -11,11 +11,9 @@ collet-screw.stl: 2 non-manifold edges, 1 open edges -> fixed -> collet-screw_fi
 
 ```bash
 brew install uv
-uv tool install git+ssh://git@github.com/stuthedew/stlfix
+uv tool install git+https://github.com/stuthedew/stlfix
 uv tool update-shell   # then open a new terminal
 ```
-
-(Use `git+https://github.com/stuthedew/stlfix` instead if you authenticate to GitHub over HTTPS, e.g. via `gh auth login`.)
 
 Update later with `uv tool upgrade stlfix`.
 
@@ -43,6 +41,10 @@ Two repair strategies run in parallel with a time limit, and the best verified r
 - **B**: close each body with MeshFix, then merge overlapping bodies with a boolean union ([manifold3d](https://github.com/elalish/manifold)). Internal cavities are kept.
 
 Each result is checked against the input: it must be a closed solid, and the surface must not move by more than 1% of the model's size. Which side of each input surface is solid is decided with the generalized winding number (Jacobson et al., SIGGRAPH 2013, via [libigl](https://libigl.github.io)), so removing internal walls and stray fins counts as repair, while filling a cavity or deleting a part counts as damage. A result that changes the shape is never reported as fixed. The output is re-read from disk before the result line is printed.
+
+## License
+
+Not chosen yet. Note that the repair engine, pymeshfix, is AGPL-3.0 (PyPI classifier), which constrains how stlfix can be licensed if it is redistributed with it.
 
 ## Development
 
