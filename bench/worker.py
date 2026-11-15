@@ -17,7 +17,7 @@ if __name__ == "__main__":
     mid, method, path, wdir = int(sys.argv[1]), sys.argv[2], sys.argv[3], sys.argv[4]
     os.makedirs(wdir, exist_ok=True)
     d = np.load(path)
-    inp = os.path.join(wdir, f"{mid}.stl"); out = os.path.join(wdir, f"{mid}_{method}.stl")
+    inp = os.path.join(wdir, f"{mid}_{method}_in.stl"); out = os.path.join(wdir, f"{mid}_{method}.stl")
     trimesh.Trimesh(d["vertices"], d["facets"], process=False).export(inp)
     rec = dict(id=mid, tool=method)
     t = time.time()

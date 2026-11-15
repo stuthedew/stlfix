@@ -10,7 +10,9 @@ ids = [i for i in by if all(t in by[i] for t in tools)]
 TOL = 0.01
 def fixed(r): return bool(r.get("ok") and r.get("lost", 1) < TOL and r.get("added", 1) < TOL)
 def damaged(r): return bool("lost" in r and max(r["lost"], r["added"]) >= TOL)
-print(f"models: {len(ids)}  fixed = valid solid AND surface moved <1% of bbox diagonal (99th pct)")
+pre = sum(1 for i in ids if not next(iter(by[i].values())).get("in_problems", ["?"]))
+print(f"models: {len(ids)} ({pre} have no problems after basic cleanup: duplicate vertices/faces removed)")
+print(f"  fixed = valid solid AND surface moved <1% of bbox diagonal (99th pct)")
 for t in tools:
     R = [by[i][t] for i in ids]
     tm = [r["time"] for r in R if "time" in r]
